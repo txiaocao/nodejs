@@ -1,10 +1,11 @@
-#nodejs项目
+﻿#nodejs项目
 ##appcache生成器
 解析har数据生成html5缓存清单列表
 ##publish项目发布器
 编译typescript，压缩js/css/html，压缩php，js混淆，清除项目文件(.dev)
 ##formatcode格式化工具
 格式化html,css,json,js
+##wenku百度文库内容下载
 
 
 #命令列表(以下命令均需要添加环境变量，_bin)
