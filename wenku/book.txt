@@ -1,0 +1,648 @@
+
+<!DOCTYPE HTML>
+<!--STATUS OK-->
+<html class="expanded">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=1280">
+<title>
+诗经_电子书免费在线阅读_百度阅读</title>
+
+<script>
+    void function(g,f,j,c,h,d,b){g.alogObjectName=h,g[h]=g[h]||function(){(g[h].q=g[h].q||[]).push(arguments)},g[h].l=g[h].l||+new Date,d=f.createElement(j),d.async=!0,d.src=c,b=f.getElementsByTagName(j)[0],b.parentNode.insertBefore(d,b)}(window,document,"script","http://img.baidu.com/hunter/alog/alog.min.js","alog");void function(){function c(){return;}window.PDC={mark:function(a,b){alog("speed.set",a,b||+new Date);alog.fire&&alog.fire("mark")},init:function(a){alog("speed.set","options",a)},view_start:c,tti:c,page_ready:c}}();void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&&/^script error/i.test(n)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
+</script>
+
+
+
+
+
+                            
+
+
+<meta name="description" content="百度阅读提供丰富的电子图书、畅销书排行榜，种类包括小说、文学、传记、艺术、少儿、经济、管理、生活等电子书的网上销售，为您提供最佳的阅读体验。"/>
+<meta name="keywords" content="电子书,网上购书,买书,折扣图书,网上买书,网上图书商城,图书,小说,经济,管理,畅销书,新书,打折,图书排行榜，图书推荐"/>
+
+<script type="text/javascript">!function(n){var t={},i={};i.get=function(n){return t[n]},i.set=function(n,i){if("string"==typeof n)t[n]=i;else for(var r in n)n.hasOwnProperty(r)&&(t[r]=n[r])},n.__fisData=i}(window);</script>
+<link rel="stylesheet" type="text/css" href="http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_bview_d094781.css"/><link rel="stylesheet" type="text/css" href="http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_btn_d86f692.css"/><link rel="stylesheet" type="text/css" href="http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_base_90d321c.css"/><link rel="stylesheet" type="text/css" href="http://static.wenku.bdimg.com/static/ydcore/pkg/pkg_ydcore_bookViewUI_42486fc.css"/><link rel="stylesheet" type="text/css" href="http://static.wenku.bdimg.com/static/ydcore/pkg/pkg_ydcore_txtReader_a237789.css"/><link rel="stylesheet" type="text/css" href="http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_yui_7105081.css"/><link rel="stylesheet" type="text/css" href="http://static.wenku.bdimg.com/static/ydcore/widget/send_mobile/send_mobile_2223f88.css"/></head>
+
+<script> alog('speed.set', 'ht', +new Date); </script>
+
+<body>
+
+<script>
+	(function(Data) {
+		var WkInfo = Data.get("WkInfo") || {};
+		WkInfo.PageInfo = {
+			'isLogin' : true,
+			'copyright' : "1", //copyright
+			'tpl'     :  "wk_info",
+			'docTypeList':[[ 'none', '' ],
+					       [ 'doc', 'Word文档' ],
+					       [ 'xls', 'Excel表格' ],
+					       [ 'ppt', 'PPT文稿' ],
+					       [ 'doc', 'Word文档' ],
+					       [ 'xls', 'Excel表格' ],
+					       [ 'ppt', 'PPT文稿' ],
+					       [ 'pdf', 'pdf文档' ],
+					       [ 'txt', 'txt文档' ],
+					       [ 'wps', 'Word（金山）' ],
+					       [ 'et', 'Excel（金山）' ],
+					       [ 'dps', 'PPT（金山）' ],
+					       [ 'vsd', 'Visio绘图' ],
+					       [ 'rtf', 'rtf文档' ],
+					       [ 'pot', 'PPT模板' ],
+					       [ 'pps', 'PPT放映' ],
+					       [ 'epub', 'ePub文档' ]]
+		};
+				WkInfo.UserInfo = {
+			'wealth'       : "31", 
+			'payed'        : false, 
+			'userName'     : "kwhite839", 
+			'userGradeNum' : "2", 
+			'isCreater'    : false, 
+			'isLimit'	   : false,
+			'isNoUsername' : false, 
+			'isAdmin'      : false 
+		};
+		WkInfo.errMsg = {
+			0 : "提交成功",
+			1 : "系统错误",
+			2 : "用户未登陆",
+			5 : "操作频率太快",
+			11: "提交参数非法"
+		};
+				Data.set("WkInfo",WkInfo);
+	}(window.__fisData));
+</script>
+<script>
+				 (function (fis_data) {
+					var d = Data = fis_data;
+					var WkInfo = d.get('WkInfo') || {};
+					// wtf: ydcommon:js_core/log 依赖于 WkInfo.DocInfo
+            		WkInfo.DocInfo = {};
+            		d.set('WkInfo', WkInfo);
+					d.set('base_layout', 'book_view_layout');
+
+					
+d.set('is_self_pub',Boolean(''));
+
+				}(window.__fisData));
+			</script>
+
+
+<div id="doc" style="width:850px;position:relative;">
+<div id="bd">
+<div id="txt_reader">
+<div class="mod reader-page complex" id="reader-page-wrap">
+
+<div id="txt-reader-block" class="bd min-height">
+</div></div>
+<div class="book-end hidden" id="book-end">
+<b class="ic ic-book-end"></b>
+</div>
+</div>
+<div id="reader-share-pop" class="reader-pop has-arrow-pop reader-share-pop">
+<div class="abox">
+<div class="a1"></div>
+<div class="a2"></div>
+</div>
+<div class="share-wrap clearfix">
+<div class="share-t mb5">分享至：</div>
+<div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare reader-bdshare">
+<div class="share-icons clearfix reader-share-icons">
+<a class="bds_tsina bdshare-items logSend"></a>
+<a class="bds_qzone bdshare-items logSend"></a>
+<a class="bds_douban bdshare-items logSend"></a>
+<a class="bds_renren bdshare-items logSend"></a>
+</div>
+</div>
+</div>
+</div>
+<div id="reader-tpl-container" style="display:none;">
+<textarea id="cover-page-tpl" style="display:none;">
+    <div class="<%=pClass%>" data-paragraph-index="<%=paragraphIndex%>">
+        <div class="single-page-inner">
+            <img id="<%=imgId%>" src="<%=imgSrc%>" alt="<%=bookName%>">
+        </div>
+    </div>
+</textarea>
+<textarea id="copy-page-tpl" style="display:none;">
+    <div class="<%=pClass%>" data-paragraph-index="<%=paragraphIndex%>">
+        <div class="single-page-inner">
+            <div class="info-block">
+                <div class="bd">
+                    <div class="copy-title">版权信息</div>
+                    <ul class="book-info-list">
+                        <% if(bookName){ %>
+                            <li class="info-item info-title<% if(publishType == 1){ %> self-pub-title<% } %>">
+                                <% if(publishType == 1){ %>
+                                    <span class="label">作 品 名</span>
+                                <% }else{ %>
+                                    <span class="label">书&nbsp;&nbsp;&nbsp;&nbsp;名</span>
+                                <% } %>
+                                <span class="value">：<%=bookName%></span>
+                            </li>
+                        <% } %>
+                        <% if(bookAuthor){ %>
+                            <li class="info-item info-author">
+                                <span class="label">作&nbsp;&nbsp;&nbsp;&nbsp;者</span>
+                                <span class="value">：<%=bookAuthor%></span>
+                            </li>
+                        <% } %>
+                        <% if(bookTranslator){ %>
+                            <li class="info-item info-trans">
+                                <span class="label">译&nbsp;&nbsp;&nbsp;&nbsp;者</span>
+                                <span class="value">：<%=bookTranslator%></span>
+                            </li>
+                        <% } %>
+                        <% if(bookPress){ %>
+                            <li class="info-item info-press">
+                                <span class="label">出 版 社</span>
+                                <span class="value">：<%=bookPress%></span>
+                            </li>
+                        <% } %>
+                        <% if(bookISBN){ %>
+                            <li class="info-item info-isbn">
+                                <span class="label">I S B N</span>
+                                <span class="value">：<%=bookISBN%></span>
+                            </li>
+                        <% } %>
+                    </ul>
+                </div>
+                <div class="ft">
+                    <ul class="copy-info-list">
+                        <% if(bookCopy){ %>
+                            <li class="info-item info-copy"><%=bookCopy%></li>
+                            <li class="info-item info-ydpress"><%=ydPress%></li>
+                        <% } %>
+                        <li class="info-item info-copytext"><%=copyText%></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</textarea>
+<textarea id="out-video-tpl" style="display:none;">
+    <iframe class="video-iframe" frameborder="0"></iframe>
+</textarea>
+<textarea id="audio-tpl" style="display:none;">
+    <div class="audio-player">
+        <div class="player">
+            <div class="inner">
+                <div class="btn-wrap ctrl-item">
+                    <div class="play-btn"></div>
+                </div>
+                <div class="time-wrap ctrl-item">
+                    <span class="time ib">00'00"</span>
+                </div>
+                <div class="progress-wrap ctrl-item">
+                    <div class="progress-bar progress-bg"></div>
+                    <div class="progress-bar progress-load" style="width: 0%;"></div>
+                    <div class="progress-bar progress-play" style="width: 0%;"></div>
+                </div>
+            </div>
+        </div>
+        <div class="shadow"></div>
+    </div>
+</textarea>
+</div>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=39124" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+    var bds_config = {
+        "snsKey": {"tsina": 2273341579, "tqq": 801199444},
+        "bdPic": 'http:\/\/hiphotos.baidu.com\/doc\/pic\/item\/72f082025aafa40fd73fa8a0a964034f79f019d5.jpg',
+        "searchPic": 1
+    };
+    document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000)
+</script>
+</div>
+<div id="ft" class="hidden">
+<div class="footer">
+<p><span class="cr">&copy;2015&nbsp;Baidu</span><a href="http://www.baidu.com/duty/" class="Bidu" target="_blank">使用百度前必读</a>&nbsp;|&nbsp;<a href="http://wenku.baidu.com/portal/browse/help#help/20" class="Xieyi" target="_blank">文库协议</a>&nbsp;|&nbsp;<a href="/portal/browse/websitemap" class="Xieyi" target="_blank">网站地图</a></p>
+</div>
+</div>
+</div>
+<script>
+    void function(e,t){for(var n=t.getElementsByTagName("img"),a=+new Date,i=[],o=function(){this.removeEventListener&&this.removeEventListener("load",o,!1),i.push({img:this,time:+new Date})},s=0;s< n.length;s++)!function(){var e=n[s];e.addEventListener?!e.complete&&e.addEventListener("load",o,!1):e.attachEvent&&e.attachEvent("onreadystatechange",function(){"complete"==e.readyState&&o.call(e,o)})}();alog("speed.set",{fsItems:i,fs:a})}(window,document);
+</script>
+<textarea id="send-mobi-wrap">
+    <div id="send-mobi-content">
+        <div class="content-bd">
+            
+            <div class="download-step-area">
+                <div class="single-download-step">
+                    <div class="bg"></div>
+                    <div class="download-step-title mb10">
+                        <span class="download-step-one"></span>
+                        <p class='download-step-one-title'>免费短信下载</p>
+                    </div>
+                    <div class="download-step-content">
+                        <p class="send-input download-step-line">
+                            <input id="send-mobile-num" type="text">
+                            <span class="num-err-tips"></span>
+                            <span class="ic num-correct-icon"></span>
+                            <span class="num-placeholder">输入手机号获取下载地址</span>
+                            <span id="num-tip">百度官方短信服务不收任何费用</span>
+                        </p>
+                        <p class="testcode-line download-step-line mb10">
+                            <input id="send-mobile-vcode" type="text"><a href="###" class="chang-testcode-wrap"><img class="testcode-img" src="" alt=""></a><a href="###" class="change-testcode-text">看不清，换一张</a>
+                            <span class="testcode-placeholder">验证码</span>
+                        </p>
+                        <p class="act-line download-step-line">
+                            <a href="###" class="confirm-send-mobi mr10">免费发送</a>
+                            <span class="code-err-tips"></span>
+                        </p>
+                    </div>
+                    <div class="shadow-left shadow"></div>
+                </div>
+                
+                <div class="qr-code-area">
+                <div class="bg"></div>
+                <div class="qr-title">
+                    <span class="download-step-two"></span>
+                    <p class="download-step-two-title">扫描二维码下载</p>
+                </div>
+                <div class="qrcode-wrap">
+                    <span class="qrcode-img"></span>
+                    <div class="qrcode-tips">
+                        <p class="tip-title">打开手机微信或QQ等工具扫描</p>
+                        <p class="tip-prev">如已安装“百度阅读”客户端，</p>
+                        <p class="tip-prev">也可扫码领取此书。</p>
+                    </div>
+                </div>
+                <div class="shadow-right shadow"></div>
+            </div>
+            
+            <p class="area-tip">* 您也可以在应用商店搜”百度阅读“安装客户端，安装完成即可下载该书。</p>
+            </div>
+            <div class="download-step-3">
+                <div class="download-step-title">
+                    <div class="countdown-tip-area">
+                        <p class="countdown-tips">
+                            <span class="num-bg min-count1">0</span>
+                            <span class="num-bg min-count2">5</span>
+                            <span class="" style="margin-right:4px;">分</span>
+                            <span class="num-bg sec-count1">0</span>
+                            <span class="num-bg sec-count2">0</span>
+                            <span class="countdown-txt">内成功下载，还能获得客户端专享特权</span>
+                        </p>
+                        <p class="btn-area">
+                            <span class="left-num-count">已有<span class="js-count-num">30547</span>人下载</span>
+                        </p>
+                    </div>
+                    <div class="book-pic">
+                                                    <img src="http://hiphotos.baidu.com/doc/pic/item/72f082025aafa40fd73fa8a0a964034f79f019d5.jpg" alt="">
+                                                <p class="free">免费<span class="price"><s>￥0.00</s></span></p>
+                    </div>
+                    <span class="add"></span>
+                    <div class="gift">
+                        <!-- <img src="images/gift.jpg" alt=""> -->
+                        <div class="gift-img"></div>
+                        <span class="fresh-man">新人专享</span>
+                    </div>
+                    <span class="add add-right"></span>
+                    <div class="more-book">
+                        <!-- <img src="images/more-free-book.jpg" alt=""> -->
+                        <div class="more-free-img"></div>
+                        <span class="more-free-books">27263本电子书全免费</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="cnt-ext">
+
+            <div class="img-tips"></div>
+            <p class="text-tips">点击短信即可打开链接页面阅读</p>
+        </div>
+    </div>
+</textarea>
+<div class="book-spark-wrap mod"
+		 data-docId="38e0ca2aa76e58fafab00349"
+		 data-title="诗经">
+<a href="#" class="close-button">&nbsp;&nbsp;</a>
+<div class="spark-title-wrap">
+<p class="spark-title">客户端特权<span>免费看全本</span>，赶紧下载就能永久拥有啦!</p>
+<div class="spark-countdown-wrap">
+<span class="figure minite-1">1</span>
+<span class="figure minite-2">2</span>
+<span>分</span>
+<span class="figure second-1">3</span>
+<span class="figure second-2">4</span>
+<span>秒内有效</span>
+</div>
+</div>
+<div class="spark-content-wrap">
+<div class="spark-book-wrap">
+<img src="" alt="" class="spark-book-image">
+<p class="spark-book-price">免费&nbsp;&nbsp;<span>&yen;0.00</span></p>
+</div>
+<div class="spark-message-wrap">
+<p class="spark-message-title">免费短信下载</p>
+<input type="text" class="spark-message-input" placeholder="输入手机号获取下载地址">
+<span class="spark-message-tips">百度官方短信服务<br>不收任何费用</span>
+<div class="spark-vcode-wrap">
+<input type="text" class="spark-vcode-input">
+<img src="" alt="" class="spark-vcode-image">
+<a href="###" class="spark-vcode-button">换一换</a>
+</div>
+<a href="##" class="spark-message-button">免费发送</a>
+<p class="spark-error-tips"></p>
+</div>
+<div class="spark-qrcode-wrap">
+<div class="spark-qrcode-image"></div>
+<p class="spark-qrcode-count">已有<span>30547</span>人下载</p>
+<p class="spark-qrcode-tips spark-qrcode-tips-1">扫描二维码下载</p>
+<p class="spark-qrcode-tips spark-qrcode-tips-2">打开手机微信或QQ等工具扫描</p>
+<p class="spark-qrcode-tips spark-qrcode-tips-3">如已安装“百度阅读”客户端，<br>也可扫码下载该书。</p>
+</div>
+</div>
+<div class="spark-footer-wrap">
+</div>
+</div>
+<script>with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://img.baidu.com/hunter/yuedu.js?st='+~(new Date()/864e5)];</script>
+<script type="text/javascript">
+		var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+		document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ffa7ccc33a1f01df356d6235a32034c37' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+<script>
+    window.alogObjectConfig = {
+        product: '113',
+        page: '113_49',
+        speed_page: '',
+        speed: {
+            sample: '1'
+        }
+    };
+
+            window.alogObjectConfig.speed.custom_metrics = ["c_flc"];
+    
+    void function(e,t,n,a,r,o){function c(t){e.attachEvent?e.attachEvent("onload",t,!1):e.addEventListener&&e.addEventListener("load",t)}function i(e,n,a){a=a||15;var r=new Date;r.setTime((new Date).getTime()+1e3*a),t.cookie=e+"="+escape(n)+";path=/;expires="+r.toGMTString()}function s(e){var n=t.cookie.match(new RegExp("(^| )"+e+"=([^;]*)(;|$)"));return null!=n?unescape(n[2]):null}function d(){var e=s("PMS_JT");if(e){i("PMS_JT","",-1);try{e=eval(e)}catch(n){e={}}e.r&&t.referrer.replace(/#.*/,"")!=e.r||alog("speed.set","wt",e.s)}}c(function(){alog("speed.set","lt",+new Date),r=t.createElement(n),r.async=!0,r.src=a+"?v="+~(new Date/864e5),o=t.getElementsByTagName(n)[0],o.parentNode.insertBefore(r,o)}),d()}(window,document,"script","http://img.baidu.com/hunter/alog/dp.min.js");
+</script>
+
+
+
+
+
+<script type="text/javascript">var pageId='wenku-ebook-view';</script>
+<script type="text/javascript" src="http://img.baidu.com/hunter/wenkumonkey.min.js"></script>
+
+
+<script>alog && alog('speed.set', 'drt', +new Date);</script>
+
+</body><script type="text/javascript" src="http://static.wenku.bdimg.com/static/ydcommon/modjs/mod_21fbee4.js"></script>
+<script type="text/javascript">require.resourceMap({"res":{"ydcommon:widget/lib/fis/data/data.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/lib/fis/data/data_c8d86b7.js","pkg":"ydcommon:p5"},"ydcommon:widget/lib/fis/template/template.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/lib/fis/template/template_d04cd23.js","pkg":"ydcommon:p5"},"ydcommon:widget/lib/tangram/base/base.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/lib/tangram/base/base_135f589.js","pkg":"ydcommon:p5","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/lib/array/array.js","ydcommon:widget/ui/lib/browser/browser.js","ydcommon:widget/ui/lib/cookie/cookie.js","ydcommon:widget/ui/lib/date/date.js","ydcommon:widget/ui/lib/json/json.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/object/object.js","ydcommon:widget/ui/lib/number/number.js","ydcommon:widget/ui/lib/page/page.js","ydcommon:widget/ui/lib/sio/sio.js","ydcommon:widget/ui/lib/string/string.js","ydcommon:widget/ui/lib/url/url.js","ydcommon:widget/ui/lib/swf/swf.js","ydcommon:widget/ui/lib/platform/platform.js"]},"ydcommon:widget/ui/lib/array/array.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/array/array_4ac5e40.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/browser/browser.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/browser/browser_8a9b5be.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/cookie/cookie.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/cookie/cookie_50c66ca.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/date/date.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/date/date_7957042.js","pkg":"ydcommon:p5","deps":["ydcommon:widget/ui/lib/number/number.js"]},"ydcommon:widget/ui/lib/jquery/jquery.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/jquery/jquery_13f20bf.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/json/json.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/json/json_a593455.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/lang/lang.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/lang/lang_eaf46a7.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/number/number.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/number/number_c200825.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/object/object.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/object/object_d801a39.js","pkg":"ydcommon:p5","deps":["ydcommon:widget/ui/lib/lang/lang.js"]},"ydcommon:widget/ui/lib/page/page.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/page/page_ddf9d38.js","pkg":"ydcommon:p5","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcommon:widget/ui/lib/platform/platform.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/platform/platform_aa8d836.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/sio/sio.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/sio/sio_cba0473.js","pkg":"ydcommon:p5","deps":["ydcommon:widget/ui/lib/lang/lang.js"]},"ydcommon:widget/ui/lib/string/string.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/string/string_6043ea3.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/lib/swf/swf.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/swf/swf_88a0722.js","pkg":"ydcommon:p5","deps":["ydcommon:widget/ui/lib/browser/browser.js","ydcommon:widget/ui/lib/array/array.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/string/string.js"]},"ydcommon:widget/ui/lib/url/url.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/url/url_64f2eca.js","pkg":"ydcommon:p5","deps":["ydcommon:widget/ui/lib/string/string.js","ydcommon:widget/ui/lib/object/object.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcommon:widget/ui/lib/value/value.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/lib/value/value_2f35f17.js","pkg":"ydcommon:p5"},"ydcommon:widget/ui/js_core/login/login.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/login/login_a487578.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/dialog/dialog.js","ydcommon:widget/lib/fis/data/data.js","ydcommon:widget/ui/js_core/log/log.js"]},"ydcommon:widget/ui/js_core/log/log.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/log/log_662b601.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/lib/fis/data/data.js"]},"ydcommon:widget/ui/js_core/util/util.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/util/util_a6844db.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js"]},"ydcommon:widget/ui/js_core/widget/widget.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/widget/widget_4be9f1d.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/util/util.js"]},"ydcommon:widget/ui/js_core/layerControl/layerControl.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/layerControl/layerControl_c280071.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/widget/widget.js","ydcommon:widget/ui/js_core/util/util.js"]},"ydcommon:widget/ui/js_core/mask/mask.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/mask/mask_49ab5c3.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/widget/widget.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/ui/js_core/layerControl/layerControl.js"]},"ydcommon:widget/ui/js_core/lightMask/lightMask.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/lightMask/lightMask_a27636e.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcommon:widget/ui/js_core/dialog/dialog.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/dialog/dialog_8826ea7.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/widget/widget.js","ydcommon:widget/ui/js_core/util/util.js"]},"ydcommon:widget/ui/js_core/_dialog/mask.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/_dialog/mask_68b2db7.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/ui/js_core/mask/mask.js"]},"ydcommon:widget/ui/js_core/_dialog/_dialog.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/_dialog/_dialog_cfc9669.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/widget/widget.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/ui/js_core/layerControl/layerControl.js","ydcommon:widget/ui/js_core/_dialog/mask.js"]},"ydcommon:widget/ui/js_core/tabs/tabs.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/tabs/tabs_04dadd6.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/widget/widget.js"]},"ydcommon:widget/ui/js_core/countdown/countdown.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/countdown/countdown_a595aab.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcommon:widget/ui/js_core/qrcode/qrcode.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/qrcode/qrcode_e906ef9.js","pkg":"ydcommon:p6"},"ydcommon:widget/ui/js_core/preload/preload.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/preload/preload_d4a2855.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js"]},"ydcommon:widget/ui/js_core/mvp/event/event.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/mvp/event/event_f89227b.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/util/util.js"]},"ydcommon:widget/ui/js_core/mvp/model/model.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/mvp/model/model_6fb15d5.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/util/util.js"]},"ydcommon:widget/ui/js_core/mvp/presenter/presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/mvp/presenter/presenter_605ba0c.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/util/util.js"]},"ydcommon:widget/ui/js_core/mvp/route/route.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/mvp/route/route_49f2f4a.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js"]},"ydcommon:widget/ui/js_core/mvp/template/template.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/mvp/template/template_99cec51.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js"]},"ydcommon:widget/ui/js_core/mvp/view/view.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/mvp/view/view_c3e5a25.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/ui/js_core/mvp/template/template.js"]},"ydcommon:widget/ui/payCheck/payCheck.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/payCheck/payCheck_11027f1.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/_dialog/_dialog.js","ydcommon:widget/ui/js_core/login/login.js"]},"ydcommon:widget/read/header/user_bar/user_bar.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/read/header/user_bar/user_bar_9e56ff7.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/js_core/dropDown/dropDown.js","ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/log/log.js","ydcommon:widget/lib/fis/data/data.js","ydcommon:widget/ui/pay/cart/cart.js"]},"ydcommon:widget/ui/js_core/yueduSuggestion/model.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/yueduSuggestion/model_dfc9462.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/event/event.js","ydcommon:widget/ui/js_core/mvp/model/model.js","ydcommon:widget/lib/tangram/base/base.js"]},"ydcommon:widget/ui/js_core/yueduSuggestion/view.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/yueduSuggestion/view_4342dda.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/event/event.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/js_core/mvp/template/template.js","ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/lib/url/url.js","ydcommon:widget/ui/js_core/log/log.js"]},"ydcommon:widget/ui/js_core/yueduSuggestion/presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/yueduSuggestion/presenter_13c19d0.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/presenter/presenter.js","ydcommon:widget/ui/js_core/mvp/event/event.js","ydcommon:widget/ui/js_core/yueduSuggestion/view.js","ydcommon:widget/ui/js_core/yueduSuggestion/model.js","ydcommon:widget/lib/tangram/base/base.js"]},"ydcommon:widget/ui/js_core/yueduSuggestion/yueduSuggestion.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/yueduSuggestion/yueduSuggestion_e66e983.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/yueduSuggestion/presenter.js"]},"ydcommon:widget/ui/js_core/dropDown/dropDown.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/js_core/dropDown/dropDown_86ae180.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/widget/widget.js","ydcommon:widget/ui/js_core/layerControl/layerControl.js"]},"ydcommon:widget/ui/read/trigger_ps_tips/trigger_ps_tips.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/read/trigger_ps_tips/trigger_ps_tips_f90904c.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcommon:widget/read/side_bar/side_bar.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/read/side_bar/side_bar_f11f88e.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/lib/browser/browser.js","ydcommon:widget/ui/lib/cookie/cookie.js"]},"ydcommon:widget/ui/pay/cart/cart.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/pay/cart/cart_275d155.js","pkg":"ydcommon:p6","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/event/event.js","ydcommon:widget/lib/fis/data/data.js"]},"ydcore:widget/ui/book_view/lib/tinyscrollbar/tinyscrollbar.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/lib/tinyscrollbar/tinyscrollbar_9f76e29.js","pkg":"ydcore:p10","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcore:widget/ui/book_view/lib/detect_zoom/detect_zoom.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/lib/detect_zoom/detect_zoom_04bb32c.js","pkg":"ydcore:p10","deps":["ydcommon:widget/ui/lib/browser/browser.js"]},"ydcore:widget/ui/book_view/lib/rangy/rangy-core.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/lib/rangy/rangy-core_7dc0769.js","pkg":"ydcore:p10"},"ydcore:widget/ui/book_view/lib/rangy/rangy-cssclassapplier.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/lib/rangy/rangy-cssclassapplier_8483f89.js","pkg":"ydcore:p10","deps":["ydcore:widget/ui/book_view/lib/rangy/rangy-core.js"]},"ydcore:widget/ui/book_view/lib/rangy/rangy.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/lib/rangy/rangy_259ef3e.js","pkg":"ydcore:p10","deps":["ydcore:widget/ui/book_view/lib/rangy/rangy-cssclassapplier.js"]},"ydcore:widget/ui/book_view/lib/ZeroClipboard/ZeroClipboard.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/lib/ZeroClipboard/ZeroClipboard_b4860b3.js","pkg":"ydcore:p10"},"ydcore:widget/ui/book_view/lib/underscore/underscore.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/lib/underscore/underscore_b1535ea.js","pkg":"ydcore:p10"},"ydcore:widget/ui/book_view/toolsArea/item/back.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/item/back_54479cb.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcore:widget/ui/book_view/toolsArea/item/title.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/item/title_2723951.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/ui/book_view/toolsArea/item/pay.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/item/pay_feee2b2.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/js_core/login/login.js","ydcommon:widget/ui/js_core/qrcode/qrcode.js","ydcommon:widget/lib/fis/data/data.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/string/string.js"]},"ydcore:widget/ui/book_view/toolsArea/item/catalog.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/item/catalog_e9a10c5.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/js_core/mvp/template/template.js","ydcore:widget/ui/book_view/lib/tinyscrollbar/tinyscrollbar.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/string/string.js","ydcommon:widget/ui/lib/url/url.js"]},"ydcore:widget/ui/book_view/toolsArea/item/favo.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/item/favo_ee91396.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/ui/book_view/toolsArea/item/book.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/item/book_937163e.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcore:widget/ui/book_view/toolsArea/item/bookmark.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/item/bookmark_65b0078.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/ui/book_view/toolsArea/item/pageBar.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/item/pageBar_c59b6fb.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/js_core/qrcode/qrcode.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/ui/book_view/toolsArea/item/msgTip.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/item/msgTip_9e4ff69.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/ui/book_view/toolsArea/itemList.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/itemList_8f3b3ac.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcore:widget/ui/book_view/toolsArea/item/back.js","ydcore:widget/ui/book_view/toolsArea/item/title.js","ydcore:widget/ui/book_view/toolsArea/item/pay.js","ydcore:widget/ui/book_view/toolsArea/item/catalog.js","ydcore:widget/ui/book_view/toolsArea/item/favo.js","ydcore:widget/ui/book_view/toolsArea/item/book.js","ydcore:widget/ui/book_view/toolsArea/item/bookmark.js","ydcore:widget/ui/book_view/toolsArea/item/pageBar.js","ydcore:widget/ui/book_view/toolsArea/item/msgTip.js","ydcommon:widget/ui/lib/browser/browser.js"]},"ydcore:widget/ui/book_view/toolsArea/txt_item/back.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/txt_item/back_511f9df.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcore:widget/ui/book_view/toolsArea/txt_item/title.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/txt_item/title_032f412.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/ui/book_view/toolsArea/txt_item/pay.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/txt_item/pay_b594743.js","pkg":"ydcore:p11","deps":["ydcore:widget/ui/book_view/toolsArea/item/pay.js"]},"ydcore:widget/ui/book_view/toolsArea/txt_item/bookmarkList.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/txt_item/bookmarkList_84238fb.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/login/login.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/js_core/mvp/template/template.js","ydcommon:widget/ui/js_core/util/util.js","ydcore:widget/ui/book_view/lib/tinyscrollbar/tinyscrollbar.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/string/string.js"]},"ydcore:widget/ui/book_view/toolsArea/txt_item/bookmarkBtn.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/txt_item/bookmarkBtn_1ff38cb.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/login/login.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/ui/book_view/toolsArea/txt_item/booknoteList.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/txt_item/booknoteList_6222f21.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/login/login.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/js_core/mvp/template/template.js","ydcommon:widget/ui/js_core/util/util.js","ydcore:widget/ui/book_view/lib/tinyscrollbar/tinyscrollbar.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/string/string.js"]},"ydcore:widget/ui/book_view/toolsArea/txt_item/catalog.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/txt_item/catalog_d814eb7.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/js_core/mvp/template/template.js","ydcore:widget/ui/book_view/lib/tinyscrollbar/tinyscrollbar.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/string/string.js","ydcommon:widget/ui/lib/url/url.js"]},"ydcore:widget/ui/book_view/toolsArea/txt_item/switchs.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/txt_item/switchs_e62cc1e.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/ui/book_view/toolsArea/txt_item/ffkanSwitch.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/txt_item/ffkanSwitch_f4f7015.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/ui/book_view/toolsArea/txt_item/pageBar.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/txt_item/pageBar_c55b09e.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/js_core/qrcode/qrcode.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/ui/book_view/toolsArea/txt_item/msgTip.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/txt_item/msgTip_94e1078.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/js_core/log/log.js","ydcore:widget/ui/book_view/lib/detect_zoom/detect_zoom.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/ui/book_view/toolsArea/itemListTxt.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/itemListTxt_19d661d.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcore:widget/ui/book_view/toolsArea/txt_item/back.js","ydcore:widget/ui/book_view/toolsArea/txt_item/title.js","ydcore:widget/ui/book_view/toolsArea/txt_item/pay.js","ydcore:widget/ui/book_view/toolsArea/txt_item/bookmarkList.js","ydcore:widget/ui/book_view/toolsArea/txt_item/bookmarkBtn.js","ydcore:widget/ui/book_view/toolsArea/txt_item/booknoteList.js","ydcore:widget/ui/book_view/toolsArea/txt_item/catalog.js","ydcore:widget/ui/book_view/toolsArea/txt_item/switchs.js","ydcore:widget/ui/book_view/toolsArea/txt_item/ffkanSwitch.js","ydcore:widget/ui/book_view/toolsArea/txt_item/pageBar.js","ydcore:widget/ui/book_view/toolsArea/txt_item/msgTip.js","ydcommon:widget/ui/lib/browser/browser.js"]},"ydcore:widget/ui/book_view/toolsArea/toolsArea.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/toolsArea_58361ff.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/js_core/log/log.js","ydcore:widget/ui/book_view/toolsArea/itemList.js","ydcore:widget/ui/book_view/toolsArea/itemListTxt.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/browser/browser.js"]},"ydcore:widget/ui/book_view/toolsArea/txt_item/book.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/txt_item/book_e7f1f2c.js","pkg":"ydcore:p11","deps":["ydcore:widget/ui/book_view/toolsArea/item/book.js"]},"ydcore:widget/ui/book_view/toolsArea/txt_item/favo.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/toolsArea/txt_item/favo_d58d14d.js","pkg":"ydcore:p11","deps":["ydcore:widget/ui/book_view/toolsArea/item/favo.js"]},"ydcore:widget/ui/book_view/modelList/bookmark.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/modelList/bookmark_de25ce3.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/model/model.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/ui/book_view/modelList/favo.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/modelList/favo_f5c5ad8.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/model/model.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/ui/book_view/modelList/catalog.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/modelList/catalog_fd9885a.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/model/model.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/ui/book_view/modelList/modelList.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/modelList/modelList_b75ac52.js","pkg":"ydcore:p11","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcore:widget/ui/book_view/modelList/bookmark.js","ydcore:widget/ui/book_view/modelList/favo.js","ydcore:widget/ui/book_view/modelList/catalog.js"]},"ydcore:widget/ui/book_view/soundmanager2/soundmanager2.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/book_view/soundmanager2/soundmanager2_5c4ce78.js"},"ydcommon:widget/ui/read/yui/dialog/jquery.bgiframe.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/read/yui/dialog/jquery.bgiframe_61d8107.js","pkg":"ydcommon:p7","deps":["ydcommon:widget/ui/lib/browser/browser.js","ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcommon:widget/ui/read/yui/dialog/dialog.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/read/yui/dialog/dialog_9d0a397.js","pkg":"ydcommon:p7","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/widget/widget.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/ui/js_core/layerControl/layerControl.js","ydcommon:widget/ui/lib/browser/browser.js","ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/read/yui/dialog/jquery.bgiframe.js"]},"ydcommon:widget/ui/read/yui/pager/pager.js":{"url":"http://static.wenku.bdimg.com/static/ydcommon/widget/ui/read/yui/pager/pager_c3b1447.js","pkg":"ydcommon:p7","deps":["ydcommon:widget/lib/tangram/base/base.js","ydcommon:widget/ui/js_core/widget/widget.js","ydcommon:widget/ui/js_core/util/util.js"]},"ydcore:widget/ui/vcode/vcode.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/vcode/vcode_2a016b6.js","pkg":"ydcore:p3","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcore:widget/ui/slide/slide.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/slide/slide_af5cf83.js","pkg":"ydcore:p3","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcore:widget/ui/lazy_load/lazy_load.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/lazy_load/lazy_load_09bf59b.js","pkg":"ydcore:p3","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/lib/browser/browser.js"]},"ydcore:widget/ui/placeholder/placeholder.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/placeholder/placeholder_036beb3.js","pkg":"ydcore:p3","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcore:widget/book_view/txt_reader/txt_reader.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/txt_reader_2a390e5.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/login/login.js","ydcommon:widget/ui/js_core/log/log.js","ydcore:widget/ui/book_view/toolsArea/toolsArea.js","ydcore:widget/ui/book_view/modelList/modelList.js","ydcore:widget/book_view/txt_reader/js/system/mediator.sys.js","ydcore:widget/book_view/txt_reader/js/system/config.sys.js","ydcore:widget/book_view/txt_reader/js/system/state.sys.js","ydcore:widget/book_view/txt_reader/js/system/util.sys.js","ydcore:widget/book_view/txt_reader/js/system/note.util.sys.js","ydcore:widget/book_view/txt_reader/js/p/presenter.js","ydcommon:widget/ui/lib/cookie/cookie.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/browser/browser.js","ydcommon:widget/ui/lib/date/date.js","ydcore:widget/book_view/txt_reader/js/system/jquery.plugins.js"]},"ydcore:widget/book_view/txt_reader/js/chapter/config.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/chapter/config_76e3044.js","pkg":"ydcore:p13"},"ydcore:widget/book_view/txt_reader/js/chapter/bdjson.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/chapter/bdjson_5d026b2.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/log/log.js","ydcore:widget/book_view/txt_reader/js/chapter/config.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/chapter/singlepage.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/chapter/singlepage_3fcdb17.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/log/log.js","ydcommon:widget/ui/js_core/mvp/template/template.js","ydcore:widget/book_view/txt_reader/js/chapter/config.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/chapter/newparser.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/chapter/newparser_b5eb260.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/log/log.js","ydcore:widget/book_view/txt_reader/js/chapter/config.js","ydcommon:widget/lib/fis/data/data.js","ydcore:widget/book_view/txt_reader/js/chapter/singlepage.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/browser/browser.js","ydcommon:widget/ui/lib/array/array.js","ydcommon:widget/ui/lib/string/string.js"]},"ydcore:widget/book_view/txt_reader/js/chapter/shrink.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/chapter/shrink_4731389.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcore:widget/book_view/txt_reader/js/chapter/config.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/browser/browser.js"]},"ydcore:widget/book_view/txt_reader/js/chapter/legend.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/chapter/legend_70bcf87.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcore:widget/book_view/txt_reader/js/chapter/config.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/chapter/chapter.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/chapter/chapter_01ac18d.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/event/event.js","ydcommon:widget/ui/js_core/log/log.js","ydcore:widget/book_view/txt_reader/js/chapter/config.js","ydcore:widget/book_view/txt_reader/js/chapter/bdjson.js","ydcore:widget/book_view/txt_reader/js/chapter/newparser.js","ydcore:widget/book_view/txt_reader/js/chapter/shrink.js","ydcore:widget/book_view/txt_reader/js/chapter/legend.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/platform/platform.js"]},"ydcore:widget/book_view/txt_reader/js/chapter/parser.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/chapter/parser_3d0f448.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/log/log.js","ydcore:widget/book_view/txt_reader/js/chapter/config.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/browser/browser.js"]},"ydcore:widget/book_view/txt_reader/js/m/bookmark.model.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/m/bookmark.model_febac0f.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/model/model.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/json/json.js","ydcommon:widget/ui/lib/date/date.js"]},"ydcore:widget/book_view/txt_reader/js/m/chapter.model.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/m/chapter.model_ffc3682.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/model/model.js","ydcore:widget/book_view/txt_reader/js/chapter/chapter.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/m/progress.model.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/m/progress.model_99dbee9.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/model/model.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/m/selecttext.model.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/m/selecttext.model_c09c31c.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/model/model.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/m/note.model.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/m/note.model_4a55a9d.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/model/model.js","ydcommon:widget/ui/js_core/log/log.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/json/json.js","ydcommon:widget/ui/lib/date/date.js","ydcommon:widget/ui/lib/string/string.js"]},"ydcore:widget/book_view/txt_reader/js/m/model.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/m/model_3f27ede.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/model/model.js","ydcore:widget/book_view/txt_reader/js/m/chapter.model.js","ydcore:widget/book_view/txt_reader/js/m/progress.model.js","ydcore:widget/book_view/txt_reader/js/m/selecttext.model.js","ydcore:widget/book_view/txt_reader/js/m/note.model.js","ydcore:widget/book_view/txt_reader/js/m/bookmark.model.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/p/common/bookmark.presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/p/common/bookmark.presenter_f22b2c8.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/presenter/presenter.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/p/common/progress.presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/p/common/progress.presenter_a489aaf.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/presenter/presenter.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/p/common/selecttext.presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/p/common/selecttext.presenter_b52ae09.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/presenter/presenter.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/p/common/note.presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/p/common/note.presenter_1090e53.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/presenter/presenter.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/p/common/common.presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/p/common/common.presenter_2cf681c.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/presenter/presenter.js","ydcore:widget/book_view/txt_reader/js/p/common/bookmark.presenter.js","ydcore:widget/book_view/txt_reader/js/p/common/progress.presenter.js","ydcore:widget/book_view/txt_reader/js/p/common/selecttext.presenter.js","ydcore:widget/book_view/txt_reader/js/p/common/note.presenter.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/p/ffkan/chapter.presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/p/ffkan/chapter.presenter_8d60123.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/presenter/presenter.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/p/ffkan/ffkan.presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/p/ffkan/ffkan.presenter_e7a843f.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/presenter/presenter.js","ydcore:widget/book_view/txt_reader/js/p/ffkan/chapter.presenter.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/p/format/chapter.presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/p/format/chapter.presenter_556e867.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/presenter/presenter.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/p/format/pager.presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/p/format/pager.presenter_e9644e8.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/log/log.js","ydcommon:widget/ui/js_core/mvp/presenter/presenter.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/p/format/scrollbar.presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/p/format/scrollbar.presenter_6bfb9b3.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/presenter/presenter.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/p/format/format.presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/p/format/format.presenter_93d7c67.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/presenter/presenter.js","ydcore:widget/book_view/txt_reader/js/p/format/chapter.presenter.js","ydcore:widget/book_view/txt_reader/js/p/format/pager.presenter.js","ydcore:widget/book_view/txt_reader/js/p/format/scrollbar.presenter.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/comment.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/comment.view_da32825.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/pay.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/pay.view_ca5a20d.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/av.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/av.view_60df1d8.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/lib/fis/data/data.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/qa.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/qa.view_2183b64.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/read/yui/dialog/dialog.js","ydcommon:widget/ui/js_core/log/log.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/progressbar.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/progressbar.view_55c339d.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/selecttext/share.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/selecttext/share_31a20c3.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/log/log.js","ydcommon:widget/ui/lib/json/json.js","ydcore:widget/ui/book_view/lib/rangy/rangy.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/selecttext/copy.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/selecttext/copy_39f39c7.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/log/log.js","ydcommon:widget/ui/js_core/util/util.js","ydcore:widget/ui/book_view/lib/ZeroClipboard/ZeroClipboard.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/selecttext.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/selecttext.view_d164953.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/js_core/login/login.js","ydcore:widget/book_view/txt_reader/js/v/common/selecttext/share.js","ydcore:widget/book_view/txt_reader/js/v/common/selecttext/copy.js","ydcore:widget/ui/book_view/lib/rangy/rangy.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/browser/browser.js","ydcommon:widget/ui/lib/string/string.js","ydcommon:widget/ui/lib/cookie/cookie.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/note/show.pop.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/note/show.pop_c13d1c4.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/note/modify.pop.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/note/modify.pop_5d8cdc1.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/note/del.confirm.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/note/del.confirm_c15c3fb.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/note.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/note.view_a6b3256.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcore:widget/ui/book_view/lib/rangy/rangy.js","ydcore:widget/ui/book_view/lib/underscore/underscore.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcore:widget/book_view/txt_reader/js/v/common/note/show.pop.js","ydcore:widget/book_view/txt_reader/js/v/common/note/modify.pop.js","ydcore:widget/book_view/txt_reader/js/v/common/note/del.confirm.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/string/string.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/singlepage.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/singlepage.view_5064a28.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/window.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/window.view_e607032.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/tips.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/tips.view_7a3adce.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/cookie/cookie.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/common.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/common.view_39fd424.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcore:widget/book_view/txt_reader/js/v/common/comment.view.js","ydcore:widget/book_view/txt_reader/js/v/common/pay.view.js","ydcore:widget/book_view/txt_reader/js/v/common/av.view.js","ydcore:widget/book_view/txt_reader/js/v/common/qa.view.js","ydcore:widget/book_view/txt_reader/js/v/common/progressbar.view.js","ydcore:widget/book_view/txt_reader/js/v/common/selecttext.view.js","ydcore:widget/book_view/txt_reader/js/v/common/note.view.js","ydcore:widget/book_view/txt_reader/js/v/common/singlepage.view.js","ydcore:widget/book_view/txt_reader/js/v/common/window.view.js","ydcore:widget/book_view/txt_reader/js/v/common/tips.view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/ffkan/chapter.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/ffkan/chapter.view_21941f0.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/common_part/lines.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common_part/lines.view_43bd6f6.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/browser/browser.js"]},"ydcore:widget/book_view/txt_reader/js/v/common_part/cutpage.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common_part/cutpage.view_4a678ee.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/ffkan/pager.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/ffkan/pager.view_65c75e9.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/common_part/operate.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common_part/operate.view_b5bdf71.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/ffkan/pagebar.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/ffkan/pagebar.view_a197064.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/ffkan/ffkan.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/ffkan/ffkan.view_874d491.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcore:widget/book_view/txt_reader/js/v/ffkan/chapter.view.js","ydcore:widget/book_view/txt_reader/js/v/common_part/lines.view.js","ydcore:widget/book_view/txt_reader/js/v/common_part/cutpage.view.js","ydcore:widget/book_view/txt_reader/js/v/ffkan/pager.view.js","ydcore:widget/book_view/txt_reader/js/v/common_part/operate.view.js","ydcore:widget/book_view/txt_reader/js/v/ffkan/pagebar.view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/stream/chapter.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/stream/chapter.view_9792540.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/stream/operate.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/stream/operate.view_5bb40c6.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/platform/platform.js"]},"ydcore:widget/book_view/txt_reader/js/v/stream/scroll.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/stream/scroll.view_d49b513.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/stream/scrollbar.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/stream/scrollbar.view_695f94e.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/stream/stream.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/stream/stream.view_34298cd.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcore:widget/book_view/txt_reader/js/v/stream/chapter.view.js","ydcore:widget/book_view/txt_reader/js/v/stream/operate.view.js","ydcore:widget/book_view/txt_reader/js/v/common_part/lines.view.js","ydcore:widget/book_view/txt_reader/js/v/common_part/cutpage.view.js","ydcore:widget/book_view/txt_reader/js/v/stream/scroll.view.js","ydcore:widget/book_view/txt_reader/js/v/stream/scrollbar.view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/format/chapter.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/format/chapter.view_6566a89.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/format/pager.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/format/pager.view_f1b4fe5.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/format/scrollbar.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/format/scrollbar.view_ee35763.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/string/string.js"]},"ydcore:widget/book_view/txt_reader/js/v/format/format.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/format/format.view_51883bb.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcore:widget/book_view/txt_reader/js/v/format/chapter.view.js","ydcore:widget/book_view/txt_reader/js/v/common_part/lines.view.js","ydcore:widget/book_view/txt_reader/js/v/common_part/cutpage.view.js","ydcore:widget/book_view/txt_reader/js/v/format/pager.view.js","ydcore:widget/book_view/txt_reader/js/v/common_part/operate.view.js","ydcore:widget/book_view/txt_reader/js/v/format/scrollbar.view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/view_3a00469.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcore:widget/book_view/txt_reader/js/v/common/common.view.js","ydcore:widget/book_view/txt_reader/js/v/ffkan/ffkan.view.js","ydcore:widget/book_view/txt_reader/js/v/stream/stream.view.js","ydcore:widget/book_view/txt_reader/js/v/format/format.view.js"]},"ydcore:widget/book_view/txt_reader/js/p/stream/chapter.presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/p/stream/chapter.presenter_2e4b428.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/presenter/presenter.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/p/stream/scroll.presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/p/stream/scroll.presenter_5bd0e7b.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/log/log.js","ydcommon:widget/ui/js_core/mvp/presenter/presenter.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/p/stream/scrollbar.presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/p/stream/scrollbar.presenter_ad0bb2f.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/presenter/presenter.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/p/stream/stream.presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/p/stream/stream.presenter_95a9851.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/presenter/presenter.js","ydcore:widget/book_view/txt_reader/js/p/stream/chapter.presenter.js","ydcore:widget/book_view/txt_reader/js/p/stream/scroll.presenter.js","ydcore:widget/book_view/txt_reader/js/p/stream/scrollbar.presenter.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/p/presenter.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/p/presenter_47ade57.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcore:widget/book_view/txt_reader/js/m/model.js","ydcore:widget/book_view/txt_reader/js/v/view.js","ydcore:widget/book_view/txt_reader/js/p/common/common.presenter.js","ydcore:widget/book_view/txt_reader/js/p/ffkan/ffkan.presenter.js","ydcore:widget/book_view/txt_reader/js/p/stream/stream.presenter.js","ydcore:widget/book_view/txt_reader/js/p/format/format.presenter.js","ydcommon:widget/ui/lib/cookie/cookie.js"]},"ydcore:widget/book_view/txt_reader/js/system/config.sys.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/system/config.sys_8863e91.js","pkg":"ydcore:p13"},"ydcore:widget/book_view/txt_reader/js/system/jquery.plugins.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/system/jquery.plugins_2a217a4.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js"]},"ydcore:widget/book_view/txt_reader/js/system/mediator.sys.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/system/mediator.sys_77379ea.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/js_core/mvp/event/event.js"]},"ydcore:widget/book_view/txt_reader/js/system/note.util.sys.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/system/note.util.sys_8ab8077.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcore:widget/ui/book_view/lib/rangy/rangy.js","ydcommon:widget/ui/lib/string/string.js"]},"ydcore:widget/book_view/txt_reader/js/system/state.sys.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/system/state.sys_77baa22.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/system/util.sys.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/system/util.sys_7fd14e1.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcore:widget/book_view/txt_reader/js/system/mediator.sys.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/string/string.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/selecttext/error.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/selecttext/error_3b8fec0.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcore:widget/ui/book_view/lib/rangy/rangy.js"]},"ydcore:widget/book_view/txt_reader/js/v/common/selecttext/search.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/common/selecttext/search_1a67c6b.js","pkg":"ydcore:p13"},"ydcore:widget/book_view/txt_reader/js/v/format/cutpage.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/format/cutpage.view_169e55f.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/txt_reader/js/v/format/lines.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/format/lines.view_0b6333c.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/util/util.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/lib/browser/browser.js"]},"ydcore:widget/book_view/txt_reader/js/v/format/operate.view.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/txt_reader/js/v/format/operate.view_214923a.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/mvp/view/view.js","ydcommon:widget/ui/lib/lang/lang.js"]},"ydcore:widget/book_view/book_spark_na/book_spark_na.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/book_view/book_spark_na/book_spark_na_7648212.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/qrcode/qrcode.js","ydcommon:widget/ui/js_core/log/log.js","ydcommon:widget/ui/lib/cookie/cookie.js","ydcommon:widget/ui/lib/json/json.js","ydcommon:widget/ui/js_core/countdown/countdown.js","ydcore:widget/ui/placeholder/placeholder.js"]},"ydcore:widget/ui/get_by_free/get_by_free.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/ui/get_by_free/get_by_free_db5d02e.js","pkg":"ydcore:p13","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/_dialog/_dialog.js","ydcommon:widget/ui/js_core/login/login.js"]},"ydcore:widget/send_mobile/send_mobile.js":{"url":"http://static.wenku.bdimg.com/static/ydcore/widget/send_mobile/send_mobile_08a42b5.js","deps":["ydcommon:widget/ui/lib/jquery/jquery.js","ydcommon:widget/ui/js_core/_dialog/_dialog.js","ydcommon:widget/ui/js_core/qrcode/qrcode.js","ydcommon:widget/ui/lib/lang/lang.js","ydcommon:widget/ui/js_core/log/log.js","ydcommon:widget/ui/js_core/countdown/countdown.js","ydcore:widget/ui/vcode/vcode.js"]}},"pkg":{"ydcommon:p5":{"url":"http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_lib_442ebd1.js"},"ydcommon:p6":{"url":"http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_base_6976c52.js"},"ydcore:p10":{"url":"http://static.wenku.bdimg.com/static/ydcore/pkg/pkg_ydcore_txtLib_54db9ef.js"},"ydcore:p11":{"url":"http://static.wenku.bdimg.com/static/ydcore/pkg/pkg_ydcore_bookViewUI_ff8efec.js"},"ydcommon:p7":{"url":"http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_yui_97b6b64.js"},"ydcore:p3":{"url":"http://static.wenku.bdimg.com/static/ydcore/pkg/pkg_ydcore_comm_7237940.js"},"ydcore:p13":{"url":"http://static.wenku.bdimg.com/static/ydcore/pkg/pkg_ydcore_txtReader_4d65a26.js"}}});</script><script type="text/javascript" src="http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_lib_442ebd1.js"></script>
+<script type="text/javascript" src="http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_base_6976c52.js"></script>
+<script type="text/javascript" src="http://static.wenku.bdimg.com/static/ydcore/pkg/pkg_ydcore_bookViewUI_ff8efec.js"></script>
+<script type="text/javascript" src="http://static.wenku.bdimg.com/static/ydcore/pkg/pkg_ydcore_txtLib_54db9ef.js"></script>
+<script type="text/javascript" src="http://static.wenku.bdimg.com/static/ydcore/pkg/pkg_ydcore_txtReader_4d65a26.js"></script>
+<script type="text/javascript" src="http://static.wenku.bdimg.com/static/ydcommon/pkg/pkg_ydcommon_yui_97b6b64.js"></script>
+<script type="text/javascript" src="http://static.wenku.bdimg.com/static/ydcore/pkg/pkg_ydcore_comm_7237940.js"></script>
+<script type="text/javascript" src="http://static.wenku.bdimg.com/static/ydcore/widget/send_mobile/send_mobile_08a42b5.js"></script>
+<script type="text/javascript">!function(){                    require.async(['ydcommon:widget/ui/lib/jquery/jquery.js'],function($) {
+                            $('html, body').addClass('txt');
+                    });
+                }();
+!function(){    require.async(['ydcommon:widget/ui/lib/jquery/jquery.js', 'ydcommon:widget/ui/payCheck/payCheck.js', 'ydcommon:widget/ui/js_core/login/login.js', 'ydcommon:widget/ui/js_core/log/log.js', 'ydcommon:widget/ui/js_core/util/util.js', 'ydcore:widget/book_view/txt_reader/txt_reader.js', 'ydcommon:widget/ui/lib/url/url.js'],function( $, Pay, Login, Log, U, txt_reader, UrlLib){
+        var docType = {
+                '0' : '',
+                '1' : 'doc',
+                '2' : 'xls',
+                '3' : 'ppt',
+                '4' : 'docx',
+                '5' : 'xlsx',
+                '6' : 'pptx',
+                '7' : 'pdf',
+                '8' : 'txt',
+                '9' : 'wps',
+                '10': 'et',
+                '11': 'dps',
+                '12': 'vsd',
+                '13': 'rtf',
+                '14': 'pot',
+                '15': 'pps',
+                '16': 'epub'
+        };
+        var _docId = '38e0ca2aa76e58fafab00349';
+        var Config = $.extend({},{
+            ffkanData: {
+                isCan: !!'1',
+                blockCount: parseInt('25') || 0
+            },
+
+            coverPageInfo: {
+                hasCoverPage: +'1',
+                coverSrc: "http:\/\/hiphotos.baidu.com\/doc\/abpic\/item\/72f082025aafa40fd73fa8a0a964034f79f019d5.jpg",
+                bigCoverSrc: "http:\/\/hiphotos.baidu.com\/doc\/pic\/item\/72f082025aafa40fd73fa8a0a964034f79f019d5.jpg",
+                bookName: "诗经",
+                bookAuthor: "佚名",
+                bookTranslator: "",
+                bookPress: "",
+                bookISBN: "",
+                bookCopy: "公共版权授权",
+                publishType: "0",
+                ydPress: "",
+                copyText: ""
+            },
+
+
+            el : document.getElementById('txt_reader'),
+            doc_id : _docId,
+            doc_id_update : '',
+            type : docType['8'],
+            bdjsonUrl : 'http://wenku.baidu.com/content/38e0ca2aa76e58fafab00349?m=15efee3edc71cebcc995c56d44af9d21',
+            ispaied : parseInt('0',10),
+            bookmarks : '[]',
+            booknotes : '[]',
+            isPrivate : !!(''),
+            isLogin : +('1'),
+            uid : '0',
+            payment : +'1',
+            version : '',
+            docTitle : '诗经',
+            coverSrc : 'http://hiphotos.baidu.com/doc/pic/item/72f082025aafa40fd73fa8a0a964034f79f019d5.jpg',
+            isPreview: /bookeditor/.test(window.location.pathname),
+            totalChapterNum : +'26',
+            oriCurChapterNum : +'1',
+            freeChapterNum : +'26',
+            freeChapterStr: '7-185',
+            saveReadPosition: +'1',
+            toPage : +'1',
+            paragraphNum : +'33',
+            paragraphOffset : +'0',
+            savePosFrom: +'4',
+            savePosTime: '2015-09-17 16:23',
+            allParagraphs : '[248,251,524,201,244,181,397,212,158,229,204,180,71,75,243,564,500,510,490,248,481,491,405,410,165,132]',
+            catalogs : '[{\x22title\x22:\x22\\u56fd\\u98ce\\u00b7\\u5468\\u5357\x22,\x22level\x22:1,\x22href\x22:\x221-1\x22},{\x22title\x22:\x22\\u3010\\u98ce-001\\u3011\\u5173\\u96ce\x22,\x22level\x22:2,\x22href\x22:\x221-4\x22},{\x22title\x22:\x22\\u3010\\u98ce-002\\u3011\\u845b\\u8983\x22,\x22level\x22:2,\x22href\x22:\x221-38\x22},{\x22title\x22:\x22\\u3010\\u98ce-003\\u3011\\u5377\\u8033\x22,\x22level\x22:2,\x22href\x22:\x221-69\x22},{\x22title\x22:\x22\\u3010\\u98ce-004\\u3011\\u6a1b\\u6728\x22,\x22level\x22:2,\x22href\x22:\x221-101\x22},{\x22title\x22:\x22\\u3010\\u98ce-005\\u3011\\u87bd\\u65af\x22,\x22level\x22:2,\x22href\x22:\x221-118\x22},{\x22title\x22:\x22\\u3010\\u98ce-006\\u3011\\u6843\\u592d\x22,\x22level\x22:2,\x22href\x22:\x221-132\x22},{\x22title\x22:\x22\\u3010\\u98ce-007\\u3011\\u5154\\u7f5d\x22,\x22level\x22:2,\x22href\x22:\x221-148\x22},{\x22title\x22:\x22\\u3010\\u98ce-008\\u3011\\u82a3\\u82e2\x22,\x22level\x22:2,\x22href\x22:\x221-163\x22},{\x22title\x22:\x22\\u3010\\u98ce-009\\u3011\\u6c49\\u5e7f\x22,\x22level\x22:2,\x22href\x22:\x221-185\x22},{\x22title\x22:\x22\\u3010\\u98ce-010\\u3011\\u6c5d\\u575f\x22,\x22level\x22:2,\x22href\x22:\x221-215\x22},{\x22title\x22:\x22\\u3010\\u98ce-011\\u3011\\u9e9f\\u4e4b\\u8dbe\x22,\x22level\x22:2,\x22href\x22:\x221-234\x22},{\x22title\x22:\x22\\u56fd\\u98ce\\u00b7\\u53ec\\u5357\x22,\x22level\x22:1,\x22href\x22:\x222-1\x22},{\x22title\x22:\x22\\u3010\\u98ce-012\\u3011\\u9e4a\\u5de2\x22,\x22level\x22:2,\x22href\x22:\x222-3\x22},{\x22title\x22:\x22\\u3010\\u98ce-013\\u3011\\u91c7\\u8629\x22,\x22level\x22:2,\x22href\x22:\x222-17\x22},{\x22title\x22:\x22\\u3010\\u98ce-014\\u3011\\u8349\\u866b\x22,\x22level\x22:2,\x22href\x22:\x222-34\x22},{\x22title\x22:\x22\\u3010\\u98ce-015\\u3011\\u91c7\\u860b\x22,\x22level\x22:2,\x22href\x22:\x222-52\x22},{\x22title\x22:\x22\\u3010\\u98ce-016\\u3011\\u7518\\u68e0\x22,\x22level\x22:2,\x22href\x22:\x222-68\x22},{\x22title\x22:\x22\\u3010\\u98ce-017\\u3011\\u884c\\u9732\x22,\x22level\x22:2,\x22href\x22:\x222-83\x22},{\x22title\x22:\x22\\u3010\\u98ce-018\\u3011\\u7f94\\u7f8a\x22,\x22level\x22:2,\x22href\x22:\x222-106\x22},{\x22title\x22:\x22\\u3010\\u98ce-019\\u3011\\u6bb7\\u5176\\u96f7\x22,\x22level\x22:2,\x22href\x22:\x222-122\x22},{\x22title\x22:\x22\\u3010\\u98ce-020\\u3011\\u647d\\u6709\\u6885\x22,\x22level\x22:2,\x22href\x22:\x222-138\x22},{\x22title\x22:\x22\\u3010\\u98ce-021\\u3011\\u5c0f\\u661f\x22,\x22level\x22:2,\x22href\x22:\x222-161\x22},{\x22title\x22:\x22\\u3010\\u98ce-022\\u3011\\u6c5f\\u6709\\u6c5c\x22,\x22level\x22:2,\x22href\x22:\x222-181\x22},{\x22title\x22:\x22\\u3010\\u98ce-023\\u3011\\u91ce\\u6709\\u6b7b\\u9e95\x22,\x22level\x22:2,\x22href\x22:\x222-199\x22},{\x22title\x22:\x22\\u3010\\u98ce-024\\u3011\\u4f55\\u5f7c\\u895b\\u77e3\x22,\x22level\x22:2,\x22href\x22:\x222-223\x22},{\x22title\x22:\x22\\u3010\\u98ce-025\\u3011\\u9a7a\\u865e\x22,\x22level\x22:2,\x22href\x22:\x222-238\x22},{\x22title\x22:\x22\\u56fd\\u98ce\\u00b7\\u90b6\\u98ce\x22,\x22level\x22:1,\x22href\x22:\x223-1\x22},{\x22title\x22:\x22\\u3010\\u98ce-026\\u3011\\u67cf\\u821f\x22,\x22level\x22:2,\x22href\x22:\x223-3\x22},{\x22title\x22:\x22\\u3010\\u98ce-027\\u3011\\u7eff\\u8863\x22,\x22level\x22:2,\x22href\x22:\x223-45\x22},{\x22title\x22:\x22\\u3010\\u98ce-028\\u3011\\u71d5\\u71d5\x22,\x22level\x22:2,\x22href\x22:\x223-72\x22},{\x22title\x22:\x22\\u3010\\u98ce-029\\u3011\\u65e5\\u6708\x22,\x22level\x22:2,\x22href\x22:\x223-102\x22},{\x22title\x22:\x22\\u3010\\u98ce-030\\u3011\\u7ec8\\u98ce\x22,\x22level\x22:2,\x22href\x22:\x223-122\x22},{\x22title\x22:\x22\\u3010\\u98ce-031\\u3011\\u51fb\\u9f13\x22,\x22level\x22:2,\x22href\x22:\x223-139\x22},{\x22title\x22:\x22\\u3010\\u98ce-032\\u3011\\u51ef\\u98ce\x22,\x22level\x22:2,\x22href\x22:\x223-176\x22},{\x22title\x22:\x22\\u3010\\u98ce-033\\u3011\\u96c4\\u96c9\x22,\x22level\x22:2,\x22href\x22:\x223-205\x22},{\x22title\x22:\x22\\u3010\\u98ce-034\\u3011\\u530f\\u6709\\u82e6\\u53f6\x22,\x22level\x22:2,\x22href\x22:\x223-224\x22},{\x22title\x22:\x22\\u3010\\u98ce-035\\u3011\\u8c37\\u98ce\x22,\x22level\x22:2,\x22href\x22:\x223-257\x22},{\x22title\x22:\x22\\u3010\\u98ce-036\\u3011\\u5f0f\\u5fae\x22,\x22level\x22:2,\x22href\x22:\x223-323\x22},{\x22title\x22:\x22\\u3010\\u98ce-037\\u3011\\u65c4\\u4e18\x22,\x22level\x22:2,\x22href\x22:\x223-338\x22},{\x22title\x22:\x22\\u3010\\u98ce-038\\u3011\\u7b80\\u516e\x22,\x22level\x22:2,\x22href\x22:\x223-360\x22},{\x22title\x22:\x22\\u3010\\u98ce-039\\u3011\\u6cc9\\u6c34\x22,\x22level\x22:2,\x22href\x22:\x223-392\x22},{\x22title\x22:\x22\\u3010\\u98ce-040\\u3011\\u5317\\u95e8\x22,\x22level\x22:2,\x22href\x22:\x223-414\x22},{\x22title\x22:\x22\\u3010\\u98ce-041\\u3011\\u5317\\u98ce\x22,\x22level\x22:2,\x22href\x22:\x223-441\x22},{\x22title\x22:\x22\\u3010\\u98ce-042\\u3011\\u9759\\u5973\x22,\x22level\x22:2,\x22href\x22:\x223-463\x22},{\x22title\x22:\x22\\u3010\\u98ce-043\\u3011\\u65b0\\u53f0\x22,\x22level\x22:2,\x22href\x22:\x223-489\x22},{\x22title\x22:\x22\\u3010\\u98ce-044\\u3011\\u4e8c\\u5b50\\u4e58\\u821f\x22,\x22level\x22:2,\x22href\x22:\x223-512\x22},{\x22title\x22:\x22\\u56fd\\u98ce\\u00b7\\u9118\\u98ce\x22,\x22level\x22:1,\x22href\x22:\x224-1\x22},{\x22title\x22:\x22\\u3010\\u98ce-045\\u3011\\u67cf\\u821f\x22,\x22level\x22:2,\x22href\x22:\x224-3\x22},{\x22title\x22:\x22\\u3010\\u98ce-046\\u3011\\u5899\\u6709\\u8328\x22,\x22level\x22:2,\x22href\x22:\x224-25\x22},{\x22title\x22:\x22\\u3010\\u98ce-047\\u3011\\u541b\\u5b50\\u5055\\u8001\x22,\x22level\x22:2,\x22href\x22:\x224-39\x22},{\x22title\x22:\x22\\u3010\\u98ce-048\\u3011\\u6851\\u4e2d\x22,\x22level\x22:2,\x22href\x22:\x224-61\x22},{\x22title\x22:\x22\\u3010\\u98ce-049\\u3011\\u9e51\\u4e4b\\u5954\\u5954\x22,\x22level\x22:2,\x22href\x22:\x224-77\x22},{\x22title\x22:\x22\\u3010\\u98ce-050\\u3011\\u5b9a\\u4e4b\\u65b9\\u4e2d\x22,\x22level\x22:2,\x22href\x22:\x224-90\x22},{\x22title\x22:\x22\\u3010\\u98ce-051\\u3011\\u8743\\u8740\x22,\x22level\x22:2,\x22href\x22:\x224-108\x22},{\x22title\x22:\x22\\u3010\\u98ce-052\\u3011\\u76f8\\u9f20\x22,\x22level\x22:2,\x22href\x22:\x224-123\x22},{\x22title\x22:\x22\\u3010\\u98ce-053\\u3011\\u5e72\\u65c4\x22,\x22level\x22:2,\x22href\x22:\x224-142\x22},{\x22title\x22:\x22\\u3010\\u98ce-054\\u3011\\u8f7d\\u9a70\x22,\x22level\x22:2,\x22href\x22:\x224-160\x22},{\x22title\x22:\x22\\u56fd\\u98ce\\u00b7\\u536b\\u98ce\x22,\x22level\x22:1,\x22href\x22:\x225-1\x22},{\x22title\x22:\x22\\u3010\\u98ce-055\\u3011\\u6dc7\\u5965\x22,\x22level\x22:2,\x22href\x22:\x225-3\x22},{\x22title\x22:\x22\\u3010\\u98ce-056\\u3011\\u8003\\u69c3\x22,\x22level\x22:2,\x22href\x22:\x225-24\x22},{\x22title\x22:\x22\\u3010\\u98ce-057\\u3011\\u7855\\u4eba\x22,\x22level\x22:2,\x22href\x22:\x225-41\x22},{\x22title\x22:\x22\\u3010\\u98ce-058\\u3011\\u6c13\x22,\x22level\x22:2,\x22href\x22:\x225-86\x22},{\x22title\x22:\x22\\u3010\\u98ce-059\\u3011\\u7af9\\u7aff\x22,\x22level\x22:2,\x22href\x22:\x225-143\x22},{\x22title\x22:\x22\\u3010\\u98ce-060\\u3011\\u8284\\u5170\x22,\x22level\x22:2,\x22href\x22:\x225-160\x22},{\x22title\x22:\x22\\u3010\\u98ce-061\\u3011\\u6cb3\\u5e7f\x22,\x22level\x22:2,\x22href\x22:\x225-176\x22},{\x22title\x22:\x22\\u3010\\u98ce-062\\u3011\\u4f2f\\u516e\x22,\x22level\x22:2,\x22href\x22:\x225-189\x22},{\x22title\x22:\x22\\u3010\\u98ce-063\\u3011\\u6709\\u72d0\x22,\x22level\x22:2,\x22href\x22:\x225-215\x22},{\x22title\x22:\x22\\u3010\\u98ce-064\\u3011\\u6728\\u74dc\x22,\x22level\x22:2,\x22href\x22:\x225-227\x22},{\x22title\x22:\x22\\u56fd\\u98ce\\u00b7\\u738b\\u98ce\x22,\x22level\x22:1,\x22href\x22:\x226-1\x22},{\x22title\x22:\x22\\u3010\\u98ce-065\\u3011\\u9ecd\\u79bb\x22,\x22level\x22:2,\x22href\x22:\x226-3\x22},{\x22title\x22:\x22\\u3010\\u98ce-066\\u3011\\u541b\\u5b50\\u4e8e\\u5f79\x22,\x22level\x22:2,\x22href\x22:\x226-23\x22},{\x22title\x22:\x22\\u3010\\u98ce-067\\u3011\\u541b\\u5b50\\u9633\\u9633\x22,\x22level\x22:2,\x22href\x22:\x226-41\x22},{\x22title\x22:\x22\\u3010\\u98ce-068\\u3011\\u626c\\u4e4b\\u6c34\x22,\x22level\x22:2,\x22href\x22:\x226-55\x22},{\x22title\x22:\x22\\u3010\\u98ce-069\\u3011\\u4e2d\\u8c37\\u6709\\u84f7\x22,\x22level\x22:2,\x22href\x22:\x226-72\x22},{\x22title\x22:\x22\\u3010\\u98ce-070\\u3011\\u5154\\u7230\x22,\x22level\x22:2,\x22href\x22:\x226-90\x22},{\x22title\x22:\x22\\u3010\\u98ce-071\\u3011\\u845b\\u85df\x22,\x22level\x22:2,\x22href\x22:\x226-115\x22},{\x22title\x22:\x22\\u3010\\u98ce-072\\u3011\\u91c7\\u845b\x22,\x22level\x22:2,\x22href\x22:\x226-130\x22},{\x22title\x22:\x22\\u3010\\u98ce-073\\u3011\\u5927\\u8f66\x22,\x22level\x22:2,\x22href\x22:\x226-148\x22},{\x22title\x22:\x22\\u3010\\u98ce-074\\u3011\\u4e18\\u4e2d\\u6709\\u9ebb\x22,\x22level\x22:2,\x22href\x22:\x226-164\x22},{\x22title\x22:\x22\\u56fd\\u98ce\\u00b7\\u90d1\\u98ce\x22,\x22level\x22:1,\x22href\x22:\x227-1\x22},{\x22title\x22:\x22\\u3010\\u98ce-075\\u3011\\u7f01\\u8863\x22,\x22level\x22:2,\x22href\x22:\x227-3\x22},{\x22title\x22:\x22\\u3010\\u98ce-076\\u3011\\u5c06\\u4ef2\\u5b50\x22,\x22level\x22:2,\x22href\x22:\x227-18\x22},{\x22title\x22:\x22\\u3010\\u98ce-077\\u3011\\u53d4\\u4e8e\\u7530\x22,\x22level\x22:2,\x22href\x22:\x227-46\x22},{\x22title\x22:\x22\\u3010\\u98ce-078\\u3011\\u5927\\u53d4\\u4e8e\\u7530\x22,\x22level\x22:2,\x22href\x22:\x227-62\x22},{\x22title\x22:\x22\\u3010\\u98ce-079\\u3011\\u6e05\\u4eba\x22,\x22level\x22:2,\x22href\x22:\x227-95\x22},{\x22title\x22:\x22\\u3010\\u98ce-080\\u3011\\u7f94\\u88d8\x22,\x22level\x22:2,\x22href\x22:\x227-115\x22},{\x22title\x22:\x22\\u3010\\u98ce-081\\u3011\\u9075\\u5927\\u8def\x22,\x22level\x22:2,\x22href\x22:\x227-134\x22},{\x22title\x22:\x22\\u3010\\u98ce-082\\u3011\\u5973\\u66f0\\u9e21\\u9e23\x22,\x22level\x22:2,\x22href\x22:\x227-147\x22},{\x22title\x22:\x22\\u3010\\u98ce-083\\u3011\\u6709\\u5973\\u540c\\u8f66\x22,\x22level\x22:2,\x22href\x22:\x227-171\x22},{\x22title\x22:\x22\\u3010\\u98ce-084\\u3011\\u5c71\\u6709\\u6276\\u82cf\x22,\x22level\x22:2,\x22href\x22:\x227-186\x22},{\x22title\x22:\x22\\u3010\\u98ce-085\\u3011\\u841a\\u516e\x22,\x22level\x22:2,\x22href\x22:\x227-204\x22},{\x22title\x22:\x22\\u3010\\u98ce-086\\u3011\\u72e1\\u7ae5\x22,\x22level\x22:2,\x22href\x22:\x227-222\x22},{\x22title\x22:\x22\\u3010\\u98ce-087\\u3011\\u8930\\u88f3\x22,\x22level\x22:2,\x22href\x22:\x227-233\x22},{\x22title\x22:\x22\\u3010\\u98ce-088\\u3011\\u4e30\x22,\x22level\x22:2,\x22href\x22:\x227-248\x22},{\x22title\x22:\x22\\u3010\\u98ce-089\\u3011\\u4e1c\\u95e8\\u4e4b\\u58a0\x22,\x22level\x22:2,\x22href\x22:\x227-267\x22},{\x22title\x22:\x22\\u3010\\u98ce-090\\u3011\\u98ce\\u96e8\x22,\x22level\x22:2,\x22href\x22:\x227-285\x22},{\x22title\x22:\x22\\u3010\\u98ce-091\\u3011\\u5b50\\u887f\x22,\x22level\x22:2,\x22href\x22:\x227-304\x22},{\x22title\x22:\x22\\u3010\\u98ce-092\\u3011\\u626c\\u4e4b\\u6c34\x22,\x22level\x22:2,\x22href\x22:\x227-321\x22},{\x22title\x22:\x22\\u3010\\u98ce-093\\u3011\\u51fa\\u5176\\u4e1c\\u95e8\x22,\x22level\x22:2,\x22href\x22:\x227-333\x22},{\x22title\x22:\x22\\u3010\\u98ce-094\\u3011\\u91ce\\u6709\\u8513\\u8349\x22,\x22level\x22:2,\x22href\x22:\x227-355\x22},{\x22title\x22:\x22\\u3010\\u98ce-095\\u3011\\u6eb1\\u6d27\x22,\x22level\x22:2,\x22href\x22:\x227-373\x22},{\x22title\x22:\x22\\u56fd\\u98ce\\u00b7\\u9f50\\u98ce\x22,\x22level\x22:1,\x22href\x22:\x228-1\x22},{\x22title\x22:\x22\\u3010\\u98ce-096\\u3011\\u9e21\\u9e23\x22,\x22level\x22:2,\x22href\x22:\x228-3\x22},{\x22title\x22:\x22\\u3010\\u98ce-097\\u3011\\u8fd8\x22,\x22level\x22:2,\x22href\x22:\x228-22\x22},{\x22title\x22:\x22\\u3010\\u98ce-098\\u3011\\u8457\x22,\x22level\x22:2,\x22href\x22:\x228-42\x22},{\x22title\x22:\x22\\u3010\\u98ce-099\\u3011\\u4e1c\\u65b9\\u4e4b\\u65e5\x22,\x22level\x22:2,\x22href\x22:\x228-58\x22},{\x22title\x22:\x22\\u3010\\u98ce-100\\u3011\\u4e1c\\u65b9\\u672a\\u660e\x22,\x22level\x22:2,\x22href\x22:\x228-72\x22},{\x22title\x22:\x22\\u3010\\u98ce-101\\u3011\\u5357\\u5c71\x22,\x22level\x22:2,\x22href\x22:\x228-88\x22},{\x22title\x22:\x22\\u3010\\u98ce-102\\u3011\\u752b\\u7530\x22,\x22level\x22:2,\x22href\x22:\x228-113\x22},{\x22title\x22:\x22\\u3010\\u98ce-103\\u3011\\u5362\\u4ee4\x22,\x22level\x22:2,\x22href\x22:\x228-131\x22},{\x22title\x22:\x22\\u3010\\u98ce-104\\u3011\\u655d\\u7b31\x22,\x22level\x22:2,\x22href\x22:\x228-151\x22},{\x22title\x22:\x22\\u3010\\u98ce-105\\u3011\\u8f7d\\u9a71\x22,\x22level\x22:2,\x22href\x22:\x228-165\x22},{\x22title\x22:\x22\\u3010\\u98ce-106\\u3011\\u7317\\u55df\x22,\x22level\x22:2,\x22href\x22:\x228-189\x22},{\x22title\x22:\x22\\u56fd\\u98ce\\u00b7\\u9b4f\\u98ce\x22,\x22level\x22:1,\x22href\x22:\x229-1\x22},{\x22title\x22:\x22\\u3010\\u98ce-107\\u3011\\u845b\\u5c66\x22,\x22level\x22:2,\x22href\x22:\x229-3\x22},{\x22title\x22:\x22\\u3010\\u98ce-108\\u3011\\u6c7e\\u6cae\\u6d33\x22,\x22level\x22:2,\x22href\x22:\x229-23\x22},{\x22title\x22:\x22\\u3010\\u98ce-109\\u3011\\u56ed\\u6709\\u6843\x22,\x22level\x22:2,\x22href\x22:\x229-43\x22},{\x22title\x22:\x22\\u3010\\u98ce-110\\u3011\\u965f\\u5cb5\x22,\x22level\x22:2,\x22href\x22:\x229-65\x22},{\x22title\x22:\x22\\u3010\\u98ce-111\\u3011\\u5341\\u4ea9\\u4e4b\\u95f4\x22,\x22level\x22:2,\x22href\x22:\x229-85\x22},{\x22title\x22:\x22\\u3010\\u98ce-112\\u3011\\u4f10\\u6a80\x22,\x22level\x22:2,\x22href\x22:\x229-103\x22},{\x22title\x22:\x22\\u3010\\u98ce-113\\u3011\\u7855\\u9f20\x22,\x22level\x22:2,\x22href\x22:\x229-135\x22},{\x22title\x22:\x22\\u56fd\\u98ce\\u00b7\\u5510\\u98ce\x22,\x22level\x22:1,\x22href\x22:\x2210-1\x22},{\x22title\x22:\x22\\u3010\\u98ce-114\\u3011\\u87cb\\u87c0\x22,\x22level\x22:2,\x22href\x22:\x2210-3\x22},{\x22title\x22:\x22\\u3010\\u98ce-115\\u3011\\u5c71\\u6709\\u67a2\x22,\x22level\x22:2,\x22href\x22:\x2210-28\x22},{\x22title\x22:\x22\\u3010\\u98ce-116\\u3011\\u626c\\u4e4b\\u6c34\x22,\x22level\x22:2,\x22href\x22:\x2210-48\x22},{\x22title\x22:\x22\\u3010\\u98ce-117\\u3011\\u6912\\u804a\x22,\x22level\x22:2,\x22href\x22:\x2210-68\x22},{\x22title\x22:\x22\\u3010\\u98ce-118\\u3011\\u7ef8\\u7f2a\x22,\x22level\x22:2,\x22href\x22:\x2210-84\x22},{\x22title\x22:\x22\\u3010\\u98ce-119\\u3011\\u6755\\u675c\x22,\x22level\x22:2,\x22href\x22:\x2210-106\x22},{\x22title\x22:\x22\\u3010\\u98ce-120\\u3011\\u7f94\\u88d8\x22,\x22level\x22:2,\x22href\x22:\x2210-123\x22},{\x22title\x22:\x22\\u3010\\u98ce-121\\u3011\\u9e28\\u7fbd\x22,\x22level\x22:2,\x22href\x22:\x2210-137\x22},{\x22title\x22:\x22\\u3010\\u98ce-122\\u3011\\u65e0\\u8863\x22,\x22level\x22:2,\x22href\x22:\x2210-158\x22},{\x22title\x22:\x22\\u3010\\u98ce-123\\u3011\\u6709\\u6755\\u4e4b\\u675c\x22,\x22level\x22:2,\x22href\x22:\x2210-170\x22},{\x22title\x22:\x22\\u3010\\u98ce-124\\u3011\\u845b\\u751f\x22,\x22level\x22:2,\x22href\x22:\x2210-184\x22},{\x22title\x22:\x22\\u3010\\u98ce-125\\u3011\\u91c7\\u82d3\x22,\x22level\x22:2,\x22href\x22:\x2210-211\x22},{\x22title\x22:\x22\\u56fd\\u98ce\\u00b7\\u79e6\\u98ce\x22,\x22level\x22:1,\x22href\x22:\x2211-1\x22},{\x22title\x22:\x22\\u3010\\u98ce-126\\u3011\\u8f66\\u90bb\x22,\x22level\x22:2,\x22href\x22:\x2211-3\x22},{\x22title\x22:\x22\\u3010\\u98ce-127\\u3011\\u9a77\\u9a56\x22,\x22level\x22:2,\x22href\x22:\x2211-21\x22},{\x22title\x22:\x22\\u3010\\u98ce-128\\u3011\\u5c0f\\u620e\x22,\x22level\x22:2,\x22href\x22:\x2211-42\x22},{\x22title\x22:\x22\\u3010\\u98ce-129\\u3011\\u84b9\\u846d\x22,\x22level\x22:2,\x22href\x22:\x2211-66\x22},{\x22title\x22:\x22\\u3010\\u98ce-130\\u3011\\u7ec8\\u5357\x22,\x22level\x22:2,\x22href\x22:\x2211-93\x22},{\x22title\x22:\x22\\u3010\\u98ce-131\\u3011\\u9ec4\\u9e1f\x22,\x22level\x22:2,\x22href\x22:\x2211-108\x22},{\x22title\x22:\x22\\u3010\\u98ce-132\\u3011\\u6668\\u98ce\x22,\x22level\x22:2,\x22href\x22:\x2211-134\x22},{\x22title\x22:\x22\\u3010\\u98ce-133\\u3011\\u65e0\\u8863\x22,\x22level\x22:2,\x22href\x22:\x2211-154\x22},{\x22title\x22:\x22\\u3010\\u98ce-134\\u3011\\u6e2d\\u9633\x22,\x22level\x22:2,\x22href\x22:\x2211-176\x22},{\x22title\x22:\x22\\u3010\\u98ce-135\\u3011\\u6743\\u8206\x22,\x22level\x22:2,\x22href\x22:\x2211-190\x22},{\x22title\x22:\x22\\u56fd\\u98ce\\u00b7\\u9648\\u98ce\x22,\x22level\x22:1,\x22href\x22:\x2212-1\x22},{\x22title\x22:\x22\\u3010\\u98ce-136\\u3011\\u5b9b\\u4e18\x22,\x22level\x22:2,\x22href\x22:\x2212-3\x22},{\x22title\x22:\x22\\u3010\\u98ce-137\\u3011\\u4e1c\\u95e8\\u4e4b\\u678c\x22,\x22level\x22:2,\x22href\x22:\x2212-21\x22},{\x22title\x22:\x22\\u3010\\u98ce-138\\u3011\\u8861\\u95e8\x22,\x22level\x22:2,\x22href\x22:\x2212-43\x22},{\x22title\x22:\x22\\u3010\\u98ce-139\\u3011\\u4e1c\\u95e8\\u4e4b\\u6c60\x22,\x22level\x22:2,\x22href\x22:\x2212-62\x22},{\x22title\x22:\x22\\u3010\\u98ce-140\\u3011\\u4e1c\\u95e8\\u4e4b\\u6768\x22,\x22level\x22:2,\x22href\x22:\x2212-77\x22},{\x22title\x22:\x22\\u3010\\u98ce-141\\u3011\\u5893\\u95e8\x22,\x22level\x22:2,\x22href\x22:\x2212-91\x22},{\x22title\x22:\x22\\u3010\\u98ce-142\\u3011\\u9632\\u6709\\u9e4a\\u5de2\x22,\x22level\x22:2,\x22href\x22:\x2212-111\x22},{\x22title\x22:\x22\\u3010\\u98ce-143\\u3011\\u6708\\u51fa\x22,\x22level\x22:2,\x22href\x22:\x2212-126\x22},{\x22title\x22:\x22\\u3010\\u98ce-144\\u3011\\u682a\\u6797\x22,\x22level\x22:2,\x22href\x22:\x2212-148\x22},{\x22title\x22:\x22\\u3010\\u98ce-145\\u3011\\u6cfd\\u9642\x22,\x22level\x22:2,\x22href\x22:\x2212-160\x22},{\x22title\x22:\x22\\u56fd\\u98ce\\u00b7\\u6867\\u98ce\x22,\x22level\x22:1,\x22href\x22:\x2213-1\x22},{\x22title\x22:\x22\\u3010\\u98ce-146\\u3011\\u7f94\\u88d8\x22,\x22level\x22:2,\x22href\x22:\x2213-3\x22},{\x22title\x22:\x22\\u3010\\u98ce-147\\u3011\\u7d20\\u51a0\x22,\x22level\x22:2,\x22href\x22:\x2213-18\x22},{\x22title\x22:\x22\\u3010\\u98ce-148\\u3011\\u96b0\\u6709\\u82cc\\u695a\x22,\x22level\x22:2,\x22href\x22:\x2213-33\x22},{\x22title\x22:\x22\\u3010\\u98ce-149\\u3011\\u532a\\u98ce\x22,\x22level\x22:2,\x22href\x22:\x2213-50\x22},{\x22title\x22:\x22\\u56fd\\u98ce\\u00b7\\u66f9\\u98ce\x22,\x22level\x22:1,\x22href\x22:\x2214-1\x22},{\x22title\x22:\x22\\u3010\\u98ce-150\\u3011\\u8709\\u8763\x22,\x22level\x22:2,\x22href\x22:\x2214-3\x22},{\x22title\x22:\x22\\u3010\\u98ce-151\\u3011\\u5019\\u4eba\x22,\x22level\x22:2,\x22href\x22:\x2214-19\x22},{\x22title\x22:\x22\\u3010\\u98ce-152\\u3011\\u9cf2\\u9e20\x22,\x22level\x22:2,\x22href\x22:\x2214-35\x22},{\x22title\x22:\x22\\u3010\\u98ce-153\\u3011\\u4e0b\\u6cc9\x22,\x22level\x22:2,\x22href\x22:\x2214-54\x22},{\x22title\x22:\x22\\u56fd\\u98ce\\u00b7\\u8c73\\u98ce\x22,\x22level\x22:1,\x22href\x22:\x2215-1\x22},{\x22title\x22:\x22\\u3010\\u98ce-154\\u3011\\u4e03\\u6708\x22,\x22level\x22:2,\x22href\x22:\x2215-3\x22},{\x22title\x22:\x22\\u3010\\u98ce-155\\u3011\\u9e31\\u9e2e\x22,\x22level\x22:2,\x22href\x22:\x2215-88\x22},{\x22title\x22:\x22\\u3010\\u98ce-156\\u3011\\u4e1c\\u5c71\x22,\x22level\x22:2,\x22href\x22:\x2215-119\x22},{\x22title\x22:\x22\\u3010\\u98ce-157\\u3011\\u7834\\u65a7\x22,\x22level\x22:2,\x22href\x22:\x2215-159\x22},{\x22title\x22:\x22\\u3010\\u98ce-158\\u3011\\u4f10\\u67ef\x22,\x22level\x22:2,\x22href\x22:\x2215-178\x22},{\x22title\x22:\x22\\u3010\\u98ce-159\\u3011\\u4e5d\\u7f6d\x22,\x22level\x22:2,\x22href\x22:\x2215-191\x22},{\x22title\x22:\x22\\u3010\\u98ce-160\\u3011\\u72fc\\u8dcb\x22,\x22level\x22:2,\x22href\x22:\x2215-225\x22},{\x22title\x22:\x22\\u5c0f\\u96c5\x22,\x22level\x22:1,\x22href\x22:\x2216-1\x22},{\x22title\x22:\x22\\u3010\\u96c5-001\\u3011\\u9e7f\\u9e23\x22,\x22level\x22:2,\x22href\x22:\x2216-3\x22},{\x22title\x22:\x22\\u3010\\u96c5-002\\u3011\\u56db\\u7261\x22,\x22level\x22:2,\x22href\x22:\x2216-29\x22},{\x22title\x22:\x22\\u3010\\u96c5-003\\u3011\\u7687\\u7687\\u8005\\u534e\x22,\x22level\x22:2,\x22href\x22:\x2216-55\x22},{\x22title\x22:\x22\\u3010\\u96c5-004\\u3011\\u5e38\\u68e3\x22,\x22level\x22:2,\x22href\x22:\x2216-81\x22},{\x22title\x22:\x22\\u3010\\u96c5-005\\u3011\\u4f10\\u6728\x22,\x22level\x22:2,\x22href\x22:\x2216-126\x22},{\x22title\x22:\x22\\u3010\\u96c5-006\\u3011\\u5929\\u4fdd\x22,\x22level\x22:2,\x22href\x22:\x2216-164\x22},{\x22title\x22:\x22\\u3010\\u96c5-007\\u3011\\u91c7\\u8587\x22,\x22level\x22:2,\x22href\x22:\x2216-195\x22},{\x22title\x22:\x22\\u3010\\u96c5-008\\u3011\\u51fa\\u8f66\x22,\x22level\x22:2,\x22href\x22:\x2216-242\x22},{\x22title\x22:\x22\\u3010\\u96c5-009\\u3011\\u6755\\u675c\x22,\x22level\x22:2,\x22href\x22:\x2216-282\x22},{\x22title\x22:\x22\\u3010\\u96c5-010\\u3011\\u9c7c\\u4e3d\x22,\x22level\x22:2,\x22href\x22:\x2216-305\x22},{\x22title\x22:\x22\\u3010\\u96c5-011\\u3011\\u5357\\u6709\\u5609\\u9c7c\x22,\x22level\x22:2,\x22href\x22:\x2216-329\x22},{\x22title\x22:\x22\\u3010\\u96c5-012\\u3011\\u5357\\u5c71\\u6709\\u53f0\x22,\x22level\x22:2,\x22href\x22:\x2216-350\x22},{\x22title\x22:\x22\\u3010\\u96c5-013\\u3011\\u84fc\\u8427\x22,\x22level\x22:2,\x22href\x22:\x2216-375\x22},{\x22title\x22:\x22\\u3010\\u96c5-014\\u3011\\u6e5b\\u9732\x22,\x22level\x22:2,\x22href\x22:\x2216-404\x22},{\x22title\x22:\x22\\u3010\\u96c5-015\\u3011\\u5f64\\u5f13\x22,\x22level\x22:2,\x22href\x22:\x2216-424\x22},{\x22title\x22:\x22\\u3010\\u96c5-016\\u3011\\u83c1\\u83c1\\u8005\\u83aa\x22,\x22level\x22:2,\x22href\x22:\x2216-444\x22},{\x22title\x22:\x22\\u3010\\u96c5-017\\u3011\\u516d\\u6708\x22,\x22level\x22:2,\x22href\x22:\x2216-466\x22},{\x22title\x22:\x22\\u3010\\u96c5-018\\u3011\\u91c7\\u8291\x22,\x22level\x22:2,\x22href\x22:\x2216-512\x22},{\x22title\x22:\x22\\u3010\\u96c5-019\\u3011\\u8f66\\u653b\x22,\x22level\x22:2,\x22href\x22:\x2216-551\x22},{\x22title\x22:\x22\\u3010\\u96c5-020\\u3011\\u5409\\u65e5\x22,\x22level\x22:2,\x22href\x22:\x2217-28\x22},{\x22title\x22:\x22\\u3010\\u96c5-021\\u3011\\u9e3f\\u96c1\x22,\x22level\x22:2,\x22href\x22:\x2217-56\x22},{\x22title\x22:\x22\\u3010\\u96c5-022\\u3011\\u5ead\\u71ce\x22,\x22level\x22:2,\x22href\x22:\x2217-76\x22},{\x22title\x22:\x22\\u3010\\u96c5-023\\u3011\\u6c94\\u6c34\x22,\x22level\x22:2,\x22href\x22:\x2217-98\x22},{\x22title\x22:\x22\\u3010\\u96c5-024\\u3011\\u9e64\\u9e23\x22,\x22level\x22:2,\x22href\x22:\x2217-119\x22},{\x22title\x22:\x22\\u3010\\u96c5-025\\u3011\\u7948\\u7236\x22,\x22level\x22:2,\x22href\x22:\x2217-135\x22},{\x22title\x22:\x22\\u3010\\u96c5-026\\u3011\\u767d\\u9a79\x22,\x22level\x22:2,\x22href\x22:\x2217-151\x22},{\x22title\x22:\x22\\u3010\\u96c5-027\\u3011\\u9ec4\\u9e1f\x22,\x22level\x22:2,\x22href\x22:\x2217-181\x22},{\x22title\x22:\x22\\u3010\\u96c5-028\\u3011\\u6211\\u884c\\u5176\\u91ce\x22,\x22level\x22:2,\x22href\x22:\x2217-199\x22},{\x22title\x22:\x22\\u3010\\u96c5-029\\u3011\\u65af\\u5e72\x22,\x22level\x22:2,\x22href\x22:\x2217-217\x22},{\x22title\x22:\x22\\u3010\\u96c5-030\\u3011\\u65e0\\u7f8a\x22,\x22level\x22:2,\x22href\x22:\x2217-275\x22},{\x22title\x22:\x22\\u3010\\u96c5-031\\u3011\\u8282\\u5357\\u5c71\x22,\x22level\x22:2,\x22href\x22:\x2217-307\x22},{\x22title\x22:\x22\\u3010\\u96c5-032\\u3011\\u6b63\\u6708\x22,\x22level\x22:2,\x22href\x22:\x2217-380\x22},{\x22title\x22:\x22\\u3010\\u96c5-033\\u3011\\u5341\\u6708\\u4e4b\\u4ea4\x22,\x22level\x22:2,\x22href\x22:\x2217-471\x22},{\x22title\x22:\x22\\u3010\\u96c5-034\\u3011\\u96e8\\u65e0\\u6b63\x22,\x22level\x22:2,\x22href\x22:\x2218-21\x22},{\x22title\x22:\x22\\u3010\\u96c5-035\\u3011\\u5c0f\\u65fb\x22,\x22level\x22:2,\x22href\x22:\x2218-62\x22},{\x22title\x22:\x22\\u3010\\u96c5-036\\u3011\\u5c0f\\u5b9b\x22,\x22level\x22:2,\x22href\x22:\x2218-99\x22},{\x22title\x22:\x22\\u3010\\u96c5-037\\u3011\\u5c0f\\u5f01\x22,\x22level\x22:2,\x22href\x22:\x2218-133\x22},{\x22title\x22:\x22\\u3010\\u96c5-038\\u3011\\u5de7\\u8a00\x22,\x22level\x22:2,\x22href\x22:\x2218-194\x22},{\x22title\x22:\x22\\u3010\\u96c5-039\\u3011\\u4f55\\u4eba\\u65af\x22,\x22level\x22:2,\x22href\x22:\x2218-231\x22},{\x22title\x22:\x22\\u3010\\u96c5-040\\u3011\\u5df7\\u4f2f\x22,\x22level\x22:2,\x22href\x22:\x2218-271\x22},{\x22title\x22:\x22\\u3010\\u96c5-041\\u3011\\u8c37\\u98ce\x22,\x22level\x22:2,\x22href\x22:\x2218-312\x22},{\x22title\x22:\x22\\u3010\\u96c5-042\\u3011\\u84fc\\u83aa\x22,\x22level\x22:2,\x22href\x22:\x2218-329\x22},{\x22title\x22:\x22\\u3010\\u96c5-043\\u3011\\u5927\\u4e1c\x22,\x22level\x22:2,\x22href\x22:\x2218-367\x22},{\x22title\x22:\x22\\u3010\\u96c5-044\\u3011\\u56db\\u6708\x22,\x22level\x22:2,\x22href\x22:\x2218-427\x22},{\x22title\x22:\x22\\u3010\\u96c5-045\\u3011\\u5317\\u5c71\x22,\x22level\x22:2,\x22href\x22:\x2218-461\x22},{\x22title\x22:\x22\\u3010\\u96c5-046\\u3011\\u65e0\\u5c06\\u5927\\u8f66\x22,\x22level\x22:2,\x22href\x22:\x2218-501\x22},{\x22title\x22:\x22\\u3010\\u96c5-047\\u3011\\u5c0f\\u660e\x22,\x22level\x22:2,\x22href\x22:\x2219-7\x22},{\x22title\x22:\x22\\u3010\\u96c5-048\\u3011\\u9f13\\u949f\x22,\x22level\x22:2,\x22href\x22:\x2219-41\x22},{\x22title\x22:\x22\\u3010\\u96c5-049\\u3011\\u695a\\u8328\x22,\x22level\x22:2,\x22href\x22:\x2219-65\x22},{\x22title\x22:\x22\\u3010\\u96c5-050\\u3011\\u4fe1\\u5357\\u5c71\x22,\x22level\x22:2,\x22href\x22:\x2219-123\x22},{\x22title\x22:\x22\\u3010\\u96c5-051\\u3011\\u752b\\u7530\x22,\x22level\x22:2,\x22href\x22:\x2219-160\x22},{\x22title\x22:\x22\\u3010\\u96c5-052\\u3011\\u5927\\u7530\x22,\x22level\x22:2,\x22href\x22:\x2219-190\x22},{\x22title\x22:\x22\\u3010\\u96c5-053\\u3011\\u77bb\\u5f7c\\u6d1b\\u77e3\x22,\x22level\x22:2,\x22href\x22:\x2219-228\x22},{\x22title\x22:\x22\\u3010\\u96c5-054\\u3011\\u88f3\\u88f3\\u8005\\u534e\x22,\x22level\x22:2,\x22href\x22:\x2219-245\x22},{\x22title\x22:\x22\\u3010\\u96c5-055\\u3011\\u6851\\u6248\x22,\x22level\x22:2,\x22href\x22:\x2219-267\x22},{\x22title\x22:\x22\\u3010\\u96c5-056\\u3011\\u9e33\\u9e2f\x22,\x22level\x22:2,\x22href\x22:\x2219-291\x22},{\x22title\x22:\x22\\u3010\\u96c5-057\\u3011\\u980d\\u5f01\x22,\x22level\x22:2,\x22href\x22:\x2219-311\x22},{\x22title\x22:\x22\\u3010\\u96c5-058\\u3011\\u8f66\\u821d\x22,\x22level\x22:2,\x22href\x22:\x2219-333\x22},{\x22title\x22:\x22\\u3010\\u96c5-059\\u3011\\u9752\\u8747\x22,\x22level\x22:2,\x22href\x22:\x2219-360\x22},{\x22title\x22:\x22\\u3010\\u96c5-060\\u3011\\u5bbe\\u4e4b\\u521d\\u7b75\x22,\x22level\x22:2,\x22href\x22:\x2219-375\x22},{\x22title\x22:\x22\\u3010\\u96c5-061\\u3011\\u9c7c\\u85fb\x22,\x22level\x22:2,\x22href\x22:\x2219-419\x22},{\x22title\x22:\x22\\u3010\\u96c5-062\\u3011\\u91c7\\u83fd\x22,\x22level\x22:2,\x22href\x22:\x2219-433\x22},{\x22title\x22:\x22\\u3010\\u96c5-063\\u3011\\u89d2\\u5f13\x22,\x22level\x22:2,\x22href\x22:\x2219-468\x22},{\x22title\x22:\x22\\u3010\\u96c5-064\\u3011\\u83c0\\u67f3\x22,\x22level\x22:2,\x22href\x22:\x2220-12\x22},{\x22title\x22:\x22\\u3010\\u96c5-065\\u3011\\u90fd\\u4eba\\u58eb\x22,\x22level\x22:2,\x22href\x22:\x2220-30\x22},{\x22title\x22:\x22\\u3010\\u96c5-066\\u3011\\u91c7\\u7eff\x22,\x22level\x22:2,\x22href\x22:\x2220-58\x22},{\x22title\x22:\x22\\u3010\\u96c5-067\\u3011\\u9ecd\\u82d7\x22,\x22level\x22:2,\x22href\x22:\x2220-81\x22},{\x22title\x22:\x22\\u3010\\u96c5-068\\u3011\\u96b0\\u6851\x22,\x22level\x22:2,\x22href\x22:\x2220-103\x22},{\x22title\x22:\x22\\u3010\\u96c5-069\\u3011\\u767d\\u534e\x22,\x22level\x22:2,\x22href\x22:\x2220-122\x22},{\x22title\x22:\x22\\u3010\\u96c5-070\\u3011\\u7ef5\\u86ee\x22,\x22level\x22:2,\x22href\x22:\x2220-153\x22},{\x22title\x22:\x22\\u3010\\u96c5-071\\u3011\\u74e0\\u53f6\x22,\x22level\x22:2,\x22href\x22:\x2220-169\x22},{\x22title\x22:\x22\\u3010\\u96c5-072\\u3011\\u6e10\\u6e10\\u4e4b\\u77f3\x22,\x22level\x22:2,\x22href\x22:\x2220-189\x22},{\x22title\x22:\x22\\u3010\\u96c5-073\\u3011\\u82d5\\u4e4b\\u534e\x22,\x22level\x22:2,\x22href\x22:\x2220-208\x22},{\x22title\x22:\x22\\u3010\\u96c5-074\\u3011\\u4f55\\u8349\\u4e0d\\u9ec4\x22,\x22level\x22:2,\x22href\x22:\x2220-225\x22},{\x22title\x22:\x22\\u5927\\u96c5\x22,\x22level\x22:1,\x22href\x22:\x2221-1\x22},{\x22title\x22:\x22\\u3010\\u96c5-075\\u3011\\u6587\\u738b\x22,\x22level\x22:2,\x22href\x22:\x2221-3\x22},{\x22title\x22:\x22\\u3010\\u96c5-076\\u3011\\u5927\\u660e\x22,\x22level\x22:2,\x22href\x22:\x2221-52\x22},{\x22title\x22:\x22\\u3010\\u96c5-077\\u3011\\u7ef5\x22,\x22level\x22:2,\x22href\x22:\x2221-98\x22},{\x22title\x22:\x22\\u3010\\u96c5-078\\u3011\\u68eb\\u6734\x22,\x22level\x22:2,\x22href\x22:\x2221-167\x22},{\x22title\x22:\x22\\u3010\\u96c5-079\\u3011\\u65f1\\u9e93\x22,\x22level\x22:2,\x22href\x22:\x2221-194\x22},{\x22title\x22:\x22\\u3010\\u96c5-080\\u3011\\u601d\\u9f50\x22,\x22level\x22:2,\x22href\x22:\x2221-219\x22},{\x22title\x22:\x22\\u3010\\u96c5-081\\u3011\\u7687\\u77e3\x22,\x22level\x22:2,\x22href\x22:\x2221-246\x22},{\x22title\x22:\x22\\u3010\\u96c5-082\\u3011\\u7075\\u53f0\x22,\x22level\x22:2,\x22href\x22:\x2221-318\x22},{\x22title\x22:\x22\\u3010\\u96c5-083\\u3011\\u4e0b\\u6b66\x22,\x22level\x22:2,\x22href\x22:\x2221-345\x22},{\x22title\x22:\x22\\u3010\\u96c5-084\\u3011\\u6587\\u738b\\u6709\\u58f0\x22,\x22level\x22:2,\x22href\x22:\x2221-371\x22},{\x22title\x22:\x22\\u3010\\u96c5-085\\u3011\\u751f\\u6c11\x22,\x22level\x22:2,\x22href\x22:\x2221-408\x22},{\x22title\x22:\x22\\u3010\\u96c5-086\\u3011\\u884c\\u82c7\x22,\x22level\x22:2,\x22href\x22:\x2222-7\x22},{\x22title\x22:\x22\\u3010\\u96c5-087\\u3011\\u65e2\\u9189\x22,\x22level\x22:2,\x22href\x22:\x2222-47\x22},{\x22title\x22:\x22\\u3010\\u96c5-088\\u3011\\u51eb\\u9e65\x22,\x22level\x22:2,\x22href\x22:\x2222-81\x22},{\x22title\x22:\x22\\u3010\\u96c5-089\\u3011\\u5047\\u4e50\x22,\x22level\x22:2,\x22href\x22:\x2222-109\x22},{\x22title\x22:\x22\\u3010\\u96c5-090\\u3011\\u516c\\u5218\x22,\x22level\x22:2,\x22href\x22:\x2222-135\x22},{\x22title\x22:\x22\\u3010\\u96c5-091\\u3011\\u6cc2\\u914c\x22,\x22level\x22:2,\x22href\x22:\x2222-198\x22},{\x22title\x22:\x22\\u3010\\u96c5-092\\u3011\\u5377\\u963f\x22,\x22level\x22:2,\x22href\x22:\x2222-214\x22},{\x22title\x22:\x22\\u3010\\u96c5-093\\u3011\\u6c11\\u52b3\x22,\x22level\x22:2,\x22href\x22:\x2222-259\x22},{\x22title\x22:\x22\\u3010\\u96c5-094\\u3011\\u677f\x22,\x22level\x22:2,\x22href\x22:\x2222-292\x22},{\x22title\x22:\x22\\u3010\\u96c5-095\\u3011\\u8361\x22,\x22level\x22:2,\x22href\x22:\x2222-347\x22},{\x22title\x22:\x22\\u3010\\u96c5-096\\u3011\\u6291\x22,\x22level\x22:2,\x22href\x22:\x2222-395\x22},{\x22title\x22:\x22\\u3010\\u96c5-097\\u3011\\u6851\\u67d4\x22,\x22level\x22:2,\x22href\x22:\x2222-464\x22},{\x22title\x22:\x22\\u3010\\u96c5-098\\u3011\\u4e91\\u6c49\x22,\x22level\x22:2,\x22href\x22:\x2223-57\x22},{\x22title\x22:\x22\\u3010\\u96c5-099\\u3011\\u5d27\\u9ad8\x22,\x22level\x22:2,\x22href\x22:\x2223-116\x22},{\x22title\x22:\x22\\u3010\\u96c5-100\\u3011\\u70dd\\u6c11\x22,\x22level\x22:2,\x22href\x22:\x2223-161\x22},{\x22title\x22:\x22\\u3010\\u96c5-101\\u3011\\u97e9\\u5955\x22,\x22level\x22:2,\x22href\x22:\x2223-206\x22},{\x22title\x22:\x22\\u3010\\u96c5-102\\u3011\\u6c5f\\u6c49\x22,\x22level\x22:2,\x22href\x22:\x2223-253\x22},{\x22title\x22:\x22\\u3010\\u96c5-103\\u3011\\u5e38\\u6b66\x22,\x22level\x22:2,\x22href\x22:\x2223-286\x22},{\x22title\x22:\x22\\u3010\\u96c5-104\\u3011\\u77bb\\u536c\x22,\x22level\x22:2,\x22href\x22:\x2223-326\x22},{\x22title\x22:\x22\\u3010\\u96c5-105\\u3011\\u53ec\\u65fb\x22,\x22level\x22:2,\x22href\x22:\x2223-370\x22},{\x22title\x22:\x22\\u5468\\u9882\x22,\x22level\x22:1,\x22href\x22:\x2224-1\x22},{\x22title\x22:\x22\\u3010\\u9882-001\\u3011\\u6e05\\u5e99\x22,\x22level\x22:2,\x22href\x22:\x2224-3\x22},{\x22title\x22:\x22\\u3010\\u9882-002\\u3011\\u7ef4\\u5929\\u4e4b\\u547d\x22,\x22level\x22:2,\x22href\x22:\x2224-15\x22},{\x22title\x22:\x22\\u3010\\u9882-003\\u3011\\u7ef4\\u6e05\x22,\x22level\x22:2,\x22href\x22:\x2224-26\x22},{\x22title\x22:\x22\\u3010\\u9882-004\\u3011\\u70c8\\u6587\x22,\x22level\x22:2,\x22href\x22:\x2224-35\x22},{\x22title\x22:\x22\\u3010\\u9882-005\\u3011\\u5929\\u4f5c\x22,\x22level\x22:2,\x22href\x22:\x2224-51\x22},{\x22title\x22:\x22\\u3010\\u9882-006\\u3011\\u660a\\u5929\\u6709\\u6210\\u547d\x22,\x22level\x22:2,\x22href\x22:\x2224-62\x22},{\x22title\x22:\x22\\u3010\\u9882-007\\u3011\\u6211\\u5c06\x22,\x22level\x22:2,\x22href\x22:\x2224-75\x22},{\x22title\x22:\x22\\u3010\\u9882-008\\u3011\\u65f6\\u8fc8\x22,\x22level\x22:2,\x22href\x22:\x2224-90\x22},{\x22title\x22:\x22\\u3010\\u9882-009\\u3011\\u6267\\u7ade\x22,\x22level\x22:2,\x22href\x22:\x2224-106\x22},{\x22title\x22:\x22\\u3010\\u9882-010\\u3011\\u601d\\u6587\x22,\x22level\x22:2,\x22href\x22:\x2224-119\x22},{\x22title\x22:\x22\\u3010\\u9882-011\\u3011\\u81e3\\u5de5\x22,\x22level\x22:2,\x22href\x22:\x2224-132\x22},{\x22title\x22:\x22\\u3010\\u9882-012\\u3011\\u566b\\u563b\x22,\x22level\x22:2,\x22href\x22:\x2224-149\x22},{\x22title\x22:\x22\\u3010\\u9882-013\\u3011\\u632f\\u9e6d\x22,\x22level\x22:2,\x22href\x22:\x2224-161\x22},{\x22title\x22:\x22\\u3010\\u9882-014\\u3011\\u4e30\\u5e74\x22,\x22level\x22:2,\x22href\x22:\x2224-172\x22},{\x22title\x22:\x22\\u3010\\u9882-015\\u3011\\u6709\\u77bd\x22,\x22level\x22:2,\x22href\x22:\x2224-182\x22},{\x22title\x22:\x22\\u3010\\u9882-016\\u3011\\u6f5c\x22,\x22level\x22:2,\x22href\x22:\x2224-193\x22},{\x22title\x22:\x22\\u3010\\u9882-017\\u3011\\u96cd\x22,\x22level\x22:2,\x22href\x22:\x2224-203\x22},{\x22title\x22:\x22\\u3010\\u9882-018\\u3011\\u8f7d\\u89c1\x22,\x22level\x22:2,\x22href\x22:\x2224-219\x22},{\x22title\x22:\x22\\u3010\\u9882-019\\u3011\\u6709\\u5ba2\x22,\x22level\x22:2,\x22href\x22:\x2224-231\x22},{\x22title\x22:\x22\\u3010\\u9882-020\\u3011\\u6b66\x22,\x22level\x22:2,\x22href\x22:\x2224-245\x22},{\x22title\x22:\x22\\u3010\\u9882-021\\u3011\\u95f5\\u4e88\\u5c0f\\u5b50\x22,\x22level\x22:2,\x22href\x22:\x2224-254\x22},{\x22title\x22:\x22\\u3010\\u9882-022\\u3011\\u8bbf\\u843d\x22,\x22level\x22:2,\x22href\x22:\x2224-265\x22},{\x22title\x22:\x22\\u3010\\u9882-023\\u3011\\u656c\\u4e4b\x22,\x22level\x22:2,\x22href\x22:\x2224-279\x22},{\x22title\x22:\x22\\u3010\\u9882-024\\u3011\\u5c0f\\u6bd6\x22,\x22level\x22:2,\x22href\x22:\x2224-290\x22},{\x22title\x22:\x22\\u3010\\u9882-025\\u3011\\u8f7d\\u829f\x22,\x22level\x22:2,\x22href\x22:\x2224-301\x22},{\x22title\x22:\x22\\u3010\\u9882-026\\u3011\\u826f\\u801c\x22,\x22level\x22:2,\x22href\x22:\x2224-334\x22},{\x22title\x22:\x22\\u3010\\u9882-027\\u3011\\u4e1d\\u8863\x22,\x22level\x22:2,\x22href\x22:\x2224-356\x22},{\x22title\x22:\x22\\u3010\\u9882-028\\u3011\\u914c\x22,\x22level\x22:2,\x22href\x22:\x2224-366\x22},{\x22title\x22:\x22\\u3010\\u9882-029\\u3011\\u6853\x22,\x22level\x22:2,\x22href\x22:\x2224-379\x22},{\x22title\x22:\x22\\u3010\\u9882-030\\u3011\\u8d49\x22,\x22level\x22:2,\x22href\x22:\x2224-389\x22},{\x22title\x22:\x22\\u3010\\u9882-031\\u3011\\u822c\x22,\x22level\x22:2,\x22href\x22:\x2224-400\x22},{\x22title\x22:\x22\\u9c81\\u9882\x22,\x22level\x22:1,\x22href\x22:\x2225-1\x22},{\x22title\x22:\x22\\u3010\\u9882-032\\u3011\\u99c9\x22,\x22level\x22:2,\x22href\x22:\x2225-3\x22},{\x22title\x22:\x22\\u3010\\u9882-033\\u3011\\u6709\\u99dc\x22,\x22level\x22:2,\x22href\x22:\x2225-29\x22},{\x22title\x22:\x22\\u3010\\u9882-034\\u3011\\u6cee\\u6c34\x22,\x22level\x22:2,\x22href\x22:\x2225-47\x22},{\x22title\x22:\x22\\u3010\\u9882-035\\u3011\\u959f\\u5bab\x22,\x22level\x22:2,\x22href\x22:\x2225-91\x22},{\x22title\x22:\x22\\u5546\\u9882\x22,\x22level\x22:1,\x22href\x22:\x2226-1\x22},{\x22title\x22:\x22\\u3010\\u9882-036\\u3011\\u90a3\x22,\x22level\x22:2,\x22href\x22:\x2226-3\x22},{\x22title\x22:\x22\\u3010\\u9882-037\\u3011\\u70c8\\u7956\x22,\x22level\x22:2,\x22href\x22:\x2226-20\x22},{\x22title\x22:\x22\\u3010\\u9882-038\\u3011\\u7384\\u9e1f\x22,\x22level\x22:2,\x22href\x22:\x2226-36\x22},{\x22title\x22:\x22\\u3010\\u9882-039\\u3011\\u957f\\u53d1\x22,\x22level\x22:2,\x22href\x22:\x2226-54\x22},{\x22title\x22:\x22\\u3010\\u9882-040\\u3011\\u6bb7\\u6b66\x22,\x22level\x22:2,\x22href\x22:\x2226-98\x22}]',
+            isInRoom : +'0',
+            payprice : +'10',
+            orgName : '',
+            hasBookDetail:+'1',
+            vipFreeBuy : +'',
+            isOnlyVipDoc : +'',
+            is_vip_free_doc : +'',
+            vip_type : +'0',
+            vip_price  : +'0',
+            goodsPayStatus : 'NoneActivity_AllFree_NoVip',
+            price_supported_devices_info : 'PC、iPhone、iPad、Android、Webapp',
+            confirm_price : +'0',
+            is_all_free : +'2',
+            isNAGuide : +'1'
+        });
+        $(function(){
+            var $body,payStart;
+            if(parseInt('0',10)===0){
+                $body = $('body');
+                payStart = new Pay({
+                    goods_type: 2,
+                    goods_id: _docId
+                });
+                $body.on('pay.start',function(evt,data){
+                    data = data || {},
+                    pos = data.pos || false,
+                    query = {};
+                    if(pos==='buy.book.view'){
+                         query.click_type='10020001';
+                         query.dqStatCode = "31_23_47_48_49";
+
+                         try{
+                            if(window.reader.State.currentType === 'ffkan'){
+                                query.click_type = '14011001';
+                                query.dqStatCode = "31_23_47_52_53";
+                            }
+                         }catch(ex){}
+                    }
+                    if(pos==='buy.book.bottom.view'){
+                         query.click_type='10020002';
+                         query.dqStatCode = "31_23_47_51";
+                    }
+                    if (pos === "buy.book.ffktips.view") {
+                         query.click_type='14011003';
+                         query.dqStatCode = "31_23_47_52_54";
+                     }
+
+                    if(!query.click_type && data.clickType){
+                        query.click_type = data.clickType;
+                    }
+                    if (!query.dqStatCode) {
+                        query.dqStatCode = "";
+                    }
+                    
+                    var search = window.location.search || '';
+                    if(search){
+                        search = search.substr(1);
+                    }
+                    var queryData = UrlLib.queryToJson(search);
+
+                    if (queryData.from_source) {
+                        query.from_source = queryData.from_source;
+                    }
+
+                    payStart.start({
+                        query : query
+                    });
+                });
+            }
+            var logName = {
+                'bookmark' : 'addbookmark',
+                'catalog' : 'catalogclick',
+                'pay' : 'buy',
+                'favo' : 'collect',
+                'fullScreen' : 'fullscreen'
+            };
+            $(document).on('toolsBarItemClick',function(e,data){
+                var name;
+                if(data){
+                    name = data.name;
+                }else{
+                    return;
+                }
+                if(logName[name]){
+                    Log.send('book','viewtoolsclick',{
+                        clicktype : logName[name],
+                        docId : _docId,
+                        version: 1
+                    });
+                }
+            });
+
+            Log.send('view','book_view',{
+                docId : _docId,
+                subtype : 'show'
+            });
+
+            var search = window.location.search || '';
+            if(search){
+                search = search.substr(1);
+            }
+            var queryData = UrlLib.queryToJson(search);
+            Config.urlQueryData = queryData;
+            Config.isSelfPreview = false;
+            Config.isLocalPreview = false;
+            Config.isSelfLocalPreview = false;
+            if(Config.isPreview && queryData.fr === 'selfeditor'){
+                Config.isSelfPreview = true;
+                Config.doc_id = Config.doc_id || queryData.book_id;
+            }
+
+            var para = parseInt(queryData.paragraphNum,10);
+            para = isNaN(para) ? Config.paragraphNum : para;
+            Config = $.extend(Config, {
+                toPage:+queryData.toPage || Config.toPage,
+                paragraphNum: para
+            });
+            window.reader =new txt_reader(Config);
+        });
+    });
+}();
+!function(){ 
+    require.async(['ydcommon:widget/ui/lib/jquery/jquery.js', 'ydcore:widget/send_mobile/send_mobile.js'], function ($, SendMobi) {           
+            var sendMobi = new SendMobi({
+                content: $('#send-mobi-wrap').val(),
+                innerId: 'send-to-mobi',
+                width: 1010,
+                height: 666,
+                draggable: false,
+                closeWithEsc: false,
+                autoshow: true,
+                fromPage: 'book_view',
+                extFr: '',
+                book_id: '38e0ca2aa76e58fafab00349',
+                book_title:''?'':'诗经',
+                monitorClass: '.js-publish-to-phone'
+            });
+    });
+}();
+!function(){        require.async(['ydcore:widget/book_view/book_spark_na/book_spark_na.js'], function (sparkNA) {
+            sparkNA.init({
+                'docId': '38e0ca2aa76e58fafab00349',
+                "bookCover": "http:\/\/hiphotos.baidu.com\/doc\/pic\/item\/72f082025aafa40fd73fa8a0a964034f79f019d5.jpg",
+                freeDownloadCount: "30547",
+                appDownloadCount: "91611"
+            });
+        });
+    }();
+!function(){        require.async(['ydcommon:widget/ui/lib/jquery/jquery.js', 'ydcommon:widget/ui/js_core/log/log.js', 'ydcore:widget/ui/get_by_free/get_by_free.js'],function($,Log){
+            $.get('/doc/interface/docCount?viewCountIncr=1&sl=0&doc_id=38e0ca2aa76e58fafab00349&t='+((new Date()).getTime()),function(){},'html');
+
+            var referer = encodeURIComponent(document.referrer),
+                nslogSend = function(id,des){
+                    Log.nslog(location.href,id,{
+                        referer : referer,
+                        t : (new Date()).getTime(),
+                        nsact : des
+                    });
+                };
+            $('body').on('click','.toolsbar-pay-btn[alog-action="buy.book.view"]',function(){
+                nslogSend('10020001','ebook.view.buy');
+            });
+            $('body').on('click','#pay-page .ui-btn-32-orange',function(){
+                nslogSend('10020002','ebook.view.bottombuy');
+            });
+            //免费领取
+            $(document.body).on('GetByFree.complete',function(e,data){
+                $('.get-by-free').css({'color' : '#ccc'}).html('已领取');
+            });
+        });
+    }();</script></html>
